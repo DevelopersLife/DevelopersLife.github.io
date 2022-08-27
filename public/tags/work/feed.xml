@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>http://localhost:3000/blog</link>
+      <link>https://developerslife.github.io//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 01 Dec 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="http://localhost:3000/tags/work/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.github.io//tags/work/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</guid>
     <title>Developer: perché non è il lavoro giusto (e perché si). Domande e risposte sul lavoro dei developer
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</link>
     undefined
     <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</guid>
     <title>Come organizzerei (idealmente) un progetto in team di sviluppo software
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</link>
     undefined
     <pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</guid>
     <title>A che età si può imparare la programmazione? A che età si può diventare Developer?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</link>
     undefined
     <pubDate>Fri, 27 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -44,10 +44,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/tipologie-di-aziende-di-sviluppo</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/tipologie-di-aziende-di-sviluppo</guid>
     <title>Tipologie di aziende di sviluppo
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/tipologie-di-aziende-di-sviluppo</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/tipologie-di-aziende-di-sviluppo</link>
     undefined
     <pubDate>Wed, 25 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -55,10 +55,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</guid>
     <title>Posso fare il Developer? Come capire se sviluppare software è la mia strada?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</link>
     undefined
     <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -66,10 +66,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/gironi-dellinferno-per-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/gironi-dellinferno-per-developer</guid>
     <title>Gironi dell&#39;inferno per Developer
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/gironi-dellinferno-per-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/gironi-dellinferno-per-developer</link>
     undefined
     <pubDate>Fri, 20 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -77,10 +77,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</guid>
     <title>Specialisti VS Fullstack? Quale la migliore strada da Developer?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</link>
     undefined
     <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -88,10 +88,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</guid>
     <title>Perchè DEVI aiutare il prossimo! Aiutarsi tra Developer
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</link>
     undefined
     <pubDate>Fri, 13 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -99,10 +99,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</guid>
     <title>Quando diventi senior? Qui la risposta!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</link>
     undefined
     <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -110,10 +110,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/perche-non-dovresti-fare-il-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/perche-non-dovresti-fare-il-developer</guid>
     <title>Perchè NON dovresti fare il Developer!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/perche-non-dovresti-fare-il-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/perche-non-dovresti-fare-il-developer</link>
     undefined
     <pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -121,10 +121,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/come-e-quando-chiedere-aiuto</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/come-e-quando-chiedere-aiuto</guid>
     <title>Come e quando chiedere aiuto
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/come-e-quando-chiedere-aiuto</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/come-e-quando-chiedere-aiuto</link>
     undefined
     <pubDate>Wed, 04 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -132,10 +132,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/come-valutare-gli-annunci-di-lavoro</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/come-valutare-gli-annunci-di-lavoro</guid>
     <title>Come valutare gli annunci di lavoro?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/come-valutare-gli-annunci-di-lavoro</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/come-valutare-gli-annunci-di-lavoro</link>
     undefined
     <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -143,10 +143,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/lavoro-nord-vs-sud</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/lavoro-nord-vs-sud</guid>
     <title>Lavoro: Nord VS Sud
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/lavoro-nord-vs-sud</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/lavoro-nord-vs-sud</link>
     undefined
     <pubDate>Mon, 26 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -154,10 +154,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</guid>
     <title>Design Pattern cosa sono? A cosa servono?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</link>
     undefined
     <pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -165,10 +165,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/diventare-ricchi-programmando</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/diventare-ricchi-programmando</guid>
     <title>Diventare ricchi programmando?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/diventare-ricchi-programmando</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/diventare-ricchi-programmando</link>
     undefined
     <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -176,10 +176,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</guid>
     <title>Cambiare lavoro: il coraggio della scelta
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</link>
     undefined
     <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -187,10 +187,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</guid>
     <title>L&#39;importanza del lavoro degli Sviluppatori
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</link>
     undefined
     <pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -198,10 +198,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</guid>
     <title>Come cambiare lavoro? Consigli utili per developer che vogliono cambiare azienda!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</link>
     undefined
     <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
