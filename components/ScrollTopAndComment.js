@@ -1,7 +1,7 @@
 import siteMetadata from '@/data/siteMetadata'
 import { useEffect, useState } from 'react'
 
-const ScrollTopAndComment = () => {
+const ScrollTopAndComment = (enableComment) => {
   const [show, setShow] = useState(false)
 
   useEffect(() => {

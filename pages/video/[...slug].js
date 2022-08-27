@@ -37,8 +37,6 @@ export async function getStaticProps({ params }) {
     fs.writeFileSync('./public/feed.xml', rss)
   }
 
-  console.log(prev);
-
   return {
     props: {
       post,
