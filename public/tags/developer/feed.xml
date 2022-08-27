@@ -1,0 +1,414 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sun, 07 Aug 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/developer/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</guid>
+    <title>Come Developer è meglio specializzarsi o conoscere tutto?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</link>
+    undefined
+    <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>specializzarsi</category><category>linguaggi di programmazione</category><category>framework</category><category>diventare sviluppatore</category><category>diventare programmatore</category><category>come diventare programmatore</category><category>ingegneria informatica</category><category>sviluppatore software</category><category>come diventare uno sviluppatore</category><category>trovare lavoro come programmatore</category><category>come diventare sviluppatore</category><category>ingegneria informatica o informatica</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/siamo-tornati-</guid>
+    <title>Siamo Tornati! :)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/siamo-tornati-</link>
+    undefined
+    <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>programmatore</category><category>domande</category><category>risposte</category><category>carriera</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife---il-primo-meetup</guid>
+    <title>Diventare un Developer (plus la mia storia e quella di DevelopersLife) - Il Primo Meetup</title>
+    <link>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife---il-primo-meetup</link>
+    undefined
+    <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developers</category><category>developer</category><category>il primo meetup di developerslife</category><category>programmazione</category><category>diventare programmatori</category><category>crescere come programmatori</category><category>carriera da sviluppatore</category><category>carriera da programmatore</category><category>programmatore informatico</category><category>come si diventa un programmatore</category><category>lavorare come sviluppatore</category><category>lavorare come programmatore</category><category>lavorare come developer</category><category>sviluppatore software</category><category>sviluppatore di software</category><category>developers life</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</guid>
+    <title>Primo giorno di lavoro, qualche consiglio utile!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</link>
+    undefined
+    <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>programmatore</category><category>software developer</category><category>sviluppatore software</category><category>programmatore informatico</category><category>primo giorno di lavoro</category><category>consigli sul primo giorno di lavoro</category><category>consigli per nuovo lavoro</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</guid>
+    <title>15 Domande e Risposte sul lavoro dei Developer! Imparare, Lavorare, Networking ed Evolvere!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</link>
+    undefined
+    <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>colloquio di lavoro in italiano</category><category>developer</category><category>sviluppatore software</category><category>come diventare sviluppatore software</category><category>consigli per developer</category><category>domande e risposte per developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</guid>
+    <title>VLOG: La prima conferenza dopo 2 anni! XMAS DevFest Torino</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</link>
+    undefined
+    <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>devfest</category><category>developer</category><category>conference</category><category>community</category><category>streamer</category><category>twitch</category><category>youtube</category><category>podcast</category><category>sviluppatori</category><category>programmatori</category><category>developers</category><category>developerslife</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-consiglio-da-developer-a-developer-sul-tempo-shorts</guid>
+    <title>Un consiglio da Developer a Developer sul Tempo! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-consiglio-da-developer-a-developer-sul-tempo-shorts</link>
+    undefined
+    <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>tempo</category><category>programmatore</category><category>diventare uno sviluppatore</category><category>diventare un developer</category><category>scrivere codice</category><category>imparare a programmare</category><category>gestire il tempo</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</guid>
+    <title>Come confrontarsi con altri Developer al Meglio?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</link>
+    undefined
+    <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>how to developer</category><category>come confrontarsi</category><category>confrontarsi al meglio</category><category>confrontarsi tra developer</category><category>comunicare meglio</category><category>comunicare tra sviluppatori</category><category>confronto tra sviluppatori</category><category>confronto tra programmatori</category><category>confronto tra diversi programmatori</category><category>confrontarsi tra sviluppatori</category><category>imparare a programmare</category><category>diventare sviluppatore</category><category>ingegneria informatica</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</guid>
+    <title>Come migliorare la tua produttività? Qualche consiglio per Developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</link>
+    undefined
+    <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>software developer</category><category>programmatore</category><category>programmatore software</category><category>sviluppatore</category><category>sviluppatore software</category><category>come migliorare la produttività?</category><category>come essere più veloci?</category><category>come essere più efficienti?</category><category>come produrre di più?</category><category>come tracciare il tempo?</category><category>come organizzare meglio il tempo?</category><category>coding</category><category>software</category><category>write code</category><category>aumentare la produttività</category><category>come aumentare la produttività</category><category>come essere più produttivi</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</guid>
+    <title>Quale IDE di Sviluppo utilizzare per scrivere codice? Il mio parere per Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>coding</category><category>ide</category><category>webstorm</category><category>intellij</category><category>jetbrains</category><category>visual studio code</category><category>write code</category><category>scrivere codice</category><category>strumenti per sviluppatori software</category><category>programmatori</category><category>developer</category><category>tool per programmatori</category><category>tool per developer</category><category>imparare a programmare</category><category>come programmare</category><category>programmare web</category><category>programmare app</category><category>come programmare web</category><category>come programmare app</category><category>come programmare una applicazione</category><category>tool per programmare</category><category>quali ide usare?</category><category>programmare per principianti</category><category>impara a programmare</category><category>programmare da zero</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-quotordinatiquot-qui-qualche-consiglio-base</guid>
+    <title>Come organizzarsi meglio? Come essere più &amp;quot;ordinati&amp;quot;? Qui qualche consiglio base!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-quotordinatiquot-qui-qualche-consiglio-base</link>
+    undefined
+    <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>organizzarsi meglio</category><category>come organizzarsi meglio?</category><category>come organizzare la settimana?</category><category>come organizzare il mese?</category><category>come organizzare l'anno?</category><category>programmatore</category><category>sviluppatore</category><category>developer</category><category>studio</category><category>task</category><category>organizzare i task</category><category>programmatore software</category><category>sviluppatore software</category><category>software developer</category><category>come organizzare task?</category><category>metodo di studio</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</guid>
+    <title>Come rimanere concentrati? Qui qualche consiglio!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</link>
+    undefined
+    <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>programmatore</category><category>developer</category><category>come rimanere concentrati?</category><category>aumentare la concentrazione</category><category>concentrazione mentale</category><category>software developer</category><category>programmatore software</category><category>scrivere codice</category><category>studiare concentrati</category><category>essere concentrati</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-sceglire-l39universita-consigli-per-aspiranti-sviluppatori-e-non-solo</guid>
+    <title>Come sceglire l&amp;#39;università? Consigli per aspiranti Sviluppatori e non solo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-sceglire-l39universita-consigli-per-aspiranti-sviluppatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>come scegliere l'università</category><category>informatica vs ingegneria informatica</category><category>come diventare un programmatore</category><category>programmatore</category><category>programmatore software</category><category>sviluppatore</category><category>sviluppatore software</category><category>developer</category><category>software developer</category><category>cosa studiare per diventare un developer</category><category>cosa studiare per diventare un programmatore</category><category>cosa studiare per diventare uno sviluppatore</category><category>come scegliere luniversità</category><category>come scegliere la facoltà</category><category>cosa fare dopo il liceo</category><category>cosa fare dopo le superiori</category><category>cosa fare dopo la maturità</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cos39e-github-copilot-cosa-ne-penso</guid>
+    <title>Cos&amp;#39;è GitHub Copilot? Cosa ne penso?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cos39e-github-copilot-cosa-ne-penso</link>
+    undefined
+    <pubDate>Mon, 05 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category><category>software developer</category><category>programmatore software</category><category>sviluppatore software</category><category>github copilot</category><category>cos'è github copilot</category><category>tutorial git</category><category>a cosa serve github copilot?</category><category>version control system</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</guid>
+    <title>Come scegliere la scuola superiore? Consigli per futuri Developer e non solo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</link>
+    undefined
+    <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developerslife</category><category>sviluppatore software</category><category>programmatore software</category><category>software developer</category><category>developer</category><category>sviluppatore</category><category>programmatore</category><category>come scegliere la scuola superiore?</category><category>come scegliere la scuola?</category><category>scegliere la giusta scuola superiore</category><category>come scegliere la giusta scuola superiore</category><category>scuola per programmatore</category><category>scuola per programmatore di videogiochi</category><category>scuola superiore</category><category>come scegliere la scuola superiore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/posso-diventare-uno-sviluppatore-software-qui-un-po-di-considerazioni</guid>
+    <title>Posso diventare uno Sviluppatore Software? Qui un pò di considerazioni!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/posso-diventare-uno-sviluppatore-software-qui-un-po-di-considerazioni</link>
+    undefined
+    <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>posso diventare uno sviluppatore software</category><category>posso diventare un developer</category><category>requisiti per diventare developer</category><category>come diventare un programmatore</category><category>come diventare uno sviluppatore</category><category>diventare un programmatore</category><category>programmatore limiti di età</category><category>a quanti anni posso scrivere codice</category><category>scrivere codice</category><category>coding</category><category>developer</category><category>sviluppatore software</category><category>programmatore informatico</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</guid>
+    <title>News su DevelopersLife: Il Canale dove parliamo della Vita e del Lavoro dello Sviluppatore Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</link>
+    undefined
+    <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developerslife</category><category>sviluppatore</category><category>programmatore</category><category>developer</category><category>diventare sviluppatore</category><category>diventare sviluppatore software</category><category>diventare programmatore</category><category>diventare programmatore software</category><category>diventare developer</category><category>diventare software developer</category><category>come diventare sviluppatore</category><category>formazione sviluppatore</category><category>imparare a programmare</category><category>diventare un developer</category><category>diventare un programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</guid>
+    <title>Backend per Sviluppatori Software: 4 Chiacchiere con Gregorio</title>
+    <link>http://localhost:3000/blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</link>
+    undefined
+    <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>backend</category><category>developer</category><category>programmatore</category><category>sviluppatore</category><category>backend developer</category><category>storia del backend</category><category>programmazione backend</category><category>java developer</category><category>python developer</category><category>diventare backend developer</category><category>programmatore di backend</category><category>backend in italia</category><category>php developer</category><category>javascript developer</category><category>imparare a programmare</category><category>come iniziare a programmare</category><category>linguaggi di programmazione</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
+    <title>Elettronica: come iniziare? Quattro chiacchiere con Juna</title>
+    <link>http://localhost:3000/blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
+    undefined
+    <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>elettronica</category><category>sviluppatore</category><category>programmatore</category><category>developer</category><category>arduino</category><category>programmare su arduino</category><category>come programmare arduino</category><category>schede ed elettronica</category><category>elettronica per tutti</category><category>come iniziare con l'elettronica</category><category>elettronica per sviluppatori</category><category>led</category><category>sensori</category><category>programmare schede</category><category>elettronica e componenti</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/crescere-come-sviluppatore-software-e-come-migliorare-una-chiacchierata-con-jaga</guid>
+    <title>Crescere come Sviluppatore Software e come migliorare! Una chiacchierata con Jaga</title>
+    <link>http://localhost:3000/blog/DevelopersLife/crescere-come-sviluppatore-software-e-come-migliorare-una-chiacchierata-con-jaga</link>
+    undefined
+    <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>carriera</category><category>diventare uno sviluppatore</category><category>migliorare come sviluppatore</category><category>crescere come sviluppatore</category><category>developer</category><category>programmatore</category><category>imparare a programmare</category><category>diventare un programmatore</category><category>italia informatica</category><category>ingegneria informatica</category><category>fullstack developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</guid>
+    <title>4 Chiacchiere e News sul Canale!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</link>
+    undefined
+    <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category><category>software developer</category><category>programmatore software</category><category>sviluppatore software</category><category>youtuber</category><category>youtube</category><category>novità</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/lavorare-all39estero-come-developer-4-chiacchiere-insieme-a-leonardo</guid>
+    <title>Lavorare all&amp;#39;estero come Developer, 4 chiacchiere insieme a Leonardo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/lavorare-all39estero-come-developer-4-chiacchiere-insieme-a-leonardo</link>
+    undefined
+    <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>lavorare all'estero</category><category>developer in inghilterra</category><category>developer all'estero</category><category>lavorare come programmatore all'estero</category><category>sviluppatore</category><category>programmatore</category><category>developer in uk</category><category>developer a londra</category><category>sviluppatore a londra</category><category>programmatore a londra</category><category>programmatore all'estero</category><category>sviluppatore all'estero</category><category>diventare sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/live-coding-su-angular-con-fabio-biondi</guid>
+    <title>Live Coding su Angular con @Fabio Biondi</title>
+    <link>http://localhost:3000/blog/DevelopersLife/live-coding-su-angular-con-fabio-biondi</link>
+    undefined
+    <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>angular</category><category>angular live coding</category><category>live coding con fabio biondi</category><category>live coding angular</category><category>angular framework</category><category>developer</category><category>programmatore</category><category>sviluppatore</category><category>web developer</category><category>software developer</category><category>programmatore software</category><category>programmatore web</category><category>sviluppatore web</category><category>sviluppatore software</category><category>sviluppare con angular</category><category>web developer con angular</category><category>sviluppatore angular</category><category>programmatore angular</category><category>developer angular</category><category>angular tutorial</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</guid>
+    <title>Quattro chiacchiere su Flutter! Sviluppare Software con Flutter nel 2021</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</link>
+    undefined
+    <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>flutter</category><category>developer</category><category>programmatore</category><category>sviluppatore software</category><category>novità flutter</category><category>cos'è flutter</category><category>perchè usare flutter</category><category>cosa posso fare con flutter</category><category>imparare flutter</category><category>software developer</category><category>programmatore software</category><category>sviluppatore</category><category>sviluppare con flutter</category><category>programmare con flutter</category><category>programmare android</category><category>programmare ios</category><category>realizzare app cross platform</category><category>programmazione mobile</category><category>app flutter italiano</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</guid>
+    <title>Vita, universo e tutto ciò che riguarda la Realtà Estesa, Sviluppare Virtual/Augmented/Mixed Reality</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</link>
+    undefined
+    <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>ar</category><category>vr</category><category>augmented reality</category><category>virtual reality</category><category>mixed reality</category><category>developer</category><category>programmatore</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso---d8techdays</guid>
+    <title>Perchè (da Sviluppatore) imparare Docker? E perchè farlo proprio adesso? - #D8TechDays</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso---d8techdays</link>
+    undefined
+    <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>developer</category><category>programmatore</category><category>docker</category><category>perchè imparare docker?</category><category>cos'è docker?</category><category>container</category><category>docker container</category><category>developer docker</category><category>sviluppatore docker</category><category>perchè studiare docker?</category><category>a cosa serve docker?</category><category>come usare docker?</category><category>docker tutorial</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/stackoverflow-cos39e-e-perche-da-sviluppatori-dovreste-usarlo</guid>
+    <title>Stackoverflow, cos&amp;#39;è e perche da Sviluppatori dovreste usarlo?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/stackoverflow-cos39e-e-perche-da-sviluppatori-dovreste-usarlo</link>
+    undefined
+    <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category><category>sviluppatore software</category><category>cos'è stackoverflow</category><category>stackoverflow</category><category>programmatore software</category><category>cos'è e come si usa stackoverflow</category><category>cercare le risposte su stackoverflow</category><category>fullstack developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</guid>
+    <title>Sta arrivando la D8 Tech Days! Una serie di chiacchierate per Sviluppatori e Apprendisti Developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</link>
+    undefined
+    <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>programmatore</category><category>conferenza</category><category>meetup</category><category>talk</category><category>speaker</category><category>tech</category><category>coding</category><category>frontend</category><category>backend</category><category>flutter</category><category>elettronica</category><category>lavoro</category><category>lavorare all'estero</category><category>lavoro in italia</category><category>ar</category><category>vr</category><category>ar/vr</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quali-materie-universitarie-sono-utili-come-sviluppatore-software</guid>
+    <title>Quali materie Universitarie sono utili come Sviluppatore Software?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quali-materie-universitarie-sono-utili-come-sviluppatore-software</link>
+    undefined
+    <pubDate>Mon, 17 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>università</category><category>informatica</category><category>ingegneria informatica</category><category>programmatore</category><category>programmazione</category><category>sviluppatore</category><category>programmatore software</category><category>sviluppatore software</category><category>developer</category><category>studiare informatica</category><category>studiare ingegneria informatica</category><category>sviluppatore web</category><category>fullstack developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppiamo-lo-snake-facile-con-htmlcssjavascript</guid>
+    <title>Sviluppiamo lo Snake (facile) con HTML+CSS+JavaScript</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppiamo-lo-snake-facile-con-htmlcssjavascript</link>
+    undefined
+    <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>javascript</category><category>html</category><category>css</category><category>snake</category><category>coding</category><category>scrivere codice</category><category>codice in live</category><category>programmatore</category><category>developer</category><category>sviluppatore</category><category>sviluppatore software</category><category>programmatore software</category><category>sviluppo web</category><category>sviluppatore web</category><category>tutorial javascript italiano</category><category>imparare javascript</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-considerazioni-sull39eta-per-quotscrivere-codicequot</guid>
+    <title>Sviluppatori, considerazioni sull&amp;#39;età per &amp;quot;scrivere codice&amp;quot;</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-considerazioni-sull39eta-per-quotscrivere-codicequot</link>
+    undefined
+    <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>programmatore</category><category>developer</category><category>età sviluppatore software</category><category>età developer</category><category>età programmatore</category><category>a che età si può studiare codice</category><category>codice ed età</category><category>diventare sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</guid>
+    <title>Tema Light vs Dark per IDE e Programmi, quale scegliere e perchè?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</link>
+    undefined
+    <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category><category>programmatore informatico</category><category>programmatore videogiochi</category><category>programmatore full stack</category><category>programmatore smart working</category><category>ide theme dark</category><category>ide theme light</category><category>ide</category><category>programmi</category><category>scrivere codice</category><category>sviluppatore e ide</category><category>occhi affaticati da pc</category><category>batteria notebook</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cos39e-git-cosa-sono-github-gitlab-e-bitbucket</guid>
+    <title>Cos&amp;#39;è GIT? Cosa sono Github, Gitlab e Bitbucket?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cos39e-git-cosa-sono-github-gitlab-e-bitbucket</link>
+    undefined
+    <pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>programmatore</category><category>sviluppatore</category><category>developer</category><category>software developer</category><category>sviluppatore software</category><category>programmatore software</category><category>git</category><category>github</category><category>gitlab</category><category>bitbucket</category><category>versioning del codice</category><category>open source</category><category>open source software</category><category>what is github and how to use it</category><category>come usare git</category><category>perchè imparere git</category><category>cos'è git</category><category>cos'è github</category><category>cos'è gitlab</category><category>cos'è bitbucket</category><category>codice opensource</category><category>strumenti per sviluppatori</category><category>strumenti per programmatori</category><category>perchè imparare git</category><category>version control system</category><category>version control github</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</guid>
+    <title>Sviluppatori e approcci a Microservizi VS Monoliti (ed un pò di filosofia dello sviluppo software)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</link>
+    undefined
+    <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore software</category><category>sviluppatore</category><category>microservices</category><category>programmatore</category><category>programmatore software</category><category>developer</category><category>microservices architecture</category><category>monolite</category><category>programmazione</category><category>open source software</category><category>open source intelligence</category><category>open source</category><category>sviluppatore full stack</category><category>sviluppatore web</category><category>programmare</category><category>coding</category><category>scrivere codice</category><category>realizzare applicazioni</category><category>realizzare applicazione</category><category>architetture software</category><category>software architecture</category><category>ingegneria</category><category>informatica</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-rispondere-ad-altri-programmatori-nel-modo-giusto</guid>
+    <title>Come rispondere ad altri Programmatori (nel modo giusto)?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-rispondere-ad-altri-programmatori-nel-modo-giusto</link>
+    undefined
+    <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>imparare a programmare</category><category>programmare da zero</category><category>programmare per principianti</category><category>corso di programmazione</category><category>come iniziare a programmare</category><category>iniziare a programmare</category><category>come programmare</category><category>come fare le giuste domande</category><category>come rispondere nel modo giusto</category><category>developer</category><category>programmatore</category><category>sviluppatore</category><category>tecnologia</category><category>linguaggi di programmazione</category><category>framework di programmazione</category><category>diventare programmatore</category><category>diventare sviluppatore</category><category>diventare developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tecnologie-linguaggi-e-framework-che-studierei-per-diventare-programmatore-oggi</guid>
+    <title>Tecnologie, Linguaggi e Framework che studierei per diventare Programmatore oggi!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tecnologie-linguaggi-e-framework-che-studierei-per-diventare-programmatore-oggi</link>
+    undefined
+    <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore web</category><category>web developer</category><category>web developer freelance</category><category>come iniziare a programmare</category><category>web developer 2021</category><category>frontend developer</category><category>backend developer</category><category>machine learning</category><category>database</category><category>ar</category><category>vr</category><category>mobile developer</category><category>developer</category><category>sviluppatore</category><category>programmatore</category><category>linguaggi di programmazione</category><category>framework di programmazione</category><category>programmazione come imparare</category><category>imparare a programmare</category><category>linguaggi di programmazione da imparare</category><category>framework da imparare</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</guid>
+    <title>Vivere a Milano? La mia esperienza! (Per Sviluppatori e non solo!)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>developer</category><category>programmatore</category><category>vivere a milano</category><category>milano costo</category><category>milano stipendio</category><category>milano casa</category><category>affittare casa a milano</category><category>trasferirsi a milano</category><category>come trasferirsi a milano</category><category>sviluppatore a milano</category><category>programmatore a milano</category><category>developer a milano</category><category>vita a milano</category><category>lavoro a milano</category><category>quanto costa vivere a milano</category><category>cercare lavoro a milano</category><category>vivere a milano senza macchina</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</guid>
+    <title>Sviluppatori, imparate a fare le giuste domande nel modo giusto!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</link>
+    undefined
+    <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>developer</category><category>programmatore</category><category>diventare developer</category><category>diventare sviluppatore</category><category>diventare programmatore</category><category>domande sviluppatore</category><category>come fare le giuste domande</category><category>come domandare bene</category><category>le giuste domande</category><category>coding</category><category>codice</category><category>scrivere codice</category><category>imparare a programmare</category><category>come iniziare a programmare</category><category>iniziare a programmare da zero</category><category>iniziare a programmare in javascript</category><category>come iniziare a programmare da zero</category><category>come iniziare a programmare in python</category><category>come programmare</category><category>come programmare in javascript</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-il-vostro-codice-e-importante-state-attenti-ai-dettagli-</guid>
+    <title>Programmatori il vostro codice è importante, state attenti ai dettagli! :)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-il-vostro-codice-e-importante-state-attenti-ai-dettagli-</link>
+    undefined
+    <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Programmatori Codice</category><category>programmatori</category><category>codice</category><category>programmatore informatico</category><category>programmatori informatici</category><category>programmatore in italia</category><category>programmatore python</category><category>programmatore software</category><category>programmatore senza laurea</category><category>coding</category><category>programmatori software</category><category>developer</category><category>software developer</category><category>how to</category><category>inclusività</category><category>codice migliore</category><category>migliori programmatori</category><category>migliore programmatore</category><category>coding bootcamp</category><category>coding interview</category><category>coding basics</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</guid>
+    <title>Equilibrio tra Lavoro e Vita. Panoramica per sviluppatori e non sul work-life balance</title>
+    <link>http://localhost:3000/blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</link>
+    undefined
+    <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>worklife balance</category><category>sviluppatore</category><category>programmatore</category><category>developer</category><category>lavoro sviluppatore</category><category>lavoro programmatore</category><category>lavoro developer</category><category>quanto lavora uno sviluppatore</category><category>sviluppatore passioni</category><category>hobby programmare</category><category>programmare</category><category>sviluppare</category><category>coding</category><category>codice</category><category>worklifebalance</category><category>work life balance</category><category>life balance</category><category>bilanciare lavoro vita</category><category>programmatore software</category><category>sviluppatore software</category><category>programmatore web</category><category>sviluppatore web</category><category>web developer</category><category>software developer</category>
+  </item>
+
+    </channel>
+  </rss>
