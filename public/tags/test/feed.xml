@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Thu, 27 Aug 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/test/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</guid>
+    <title>3 semplici consigli su come lavorare in smart working!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</link>
+    undefined
+    <pubDate>Thu, 27 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>TEST</category>
+  </item>
+
+    </channel>
+  </rss>

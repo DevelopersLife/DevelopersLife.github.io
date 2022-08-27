@@ -1,0 +1,2184 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sun, 07 Aug 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/channel/DevelopersLife/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</guid>
+    <title>Come Developer è meglio specializzarsi o conoscere tutto?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</link>
+    undefined
+    <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/siamo-tornati-</guid>
+    <title>Siamo Tornati! :)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/siamo-tornati-</link>
+    undefined
+    <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife---il-primo-meetup</guid>
+    <title>Diventare un Developer (plus la mia storia e quella di DevelopersLife) - Il Primo Meetup</title>
+    <link>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife---il-primo-meetup</link>
+    undefined
+    <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</guid>
+    <title>Il lavoro dello Sviluppatore Software: Domande e Risposte Parte 2</title>
+    <link>http://localhost:3000/blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</link>
+    undefined
+    <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/oggi-a-sentire-fabio-biondi-al-meetup-reactjs-milano-da-localhost-by-crafted-software</guid>
+    <title>Oggi a sentire Fabio Biondi al meetup ReactJS Milano, da Localhost by Crafted Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/oggi-a-sentire-fabio-biondi-al-meetup-reactjs-milano-da-localhost-by-crafted-software</link>
+    undefined
+    <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</guid>
+    <title>Primo giorno di lavoro, qualche consiglio utile!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</link>
+    undefined
+    <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/carriera-da-developer-dopo-essere-diventati-senior</guid>
+    <title>Carriera da Developer dopo essere diventati senior!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/carriera-da-developer-dopo-essere-diventati-senior</link>
+    undefined
+    <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</guid>
+    <title>Tasse da lavoro dipendente: spiegazione facile su come si calcolano!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</link>
+    undefined
+    <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/developer-rispondo-alle-vostre-domande-sulla-vita-degli-sviluppatori-software</guid>
+    <title>Developer: rispondo alle vostre domande sulla vita degli Sviluppatori Software!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/developer-rispondo-alle-vostre-domande-sulla-vita-degli-sviluppatori-software</link>
+    undefined
+    <pubDate>Fri, 14 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</guid>
+    <title>15 Domande e Risposte sul lavoro dei Developer! Imparare, Lavorare, Networking ed Evolvere!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</link>
+    undefined
+    <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buon-natale-da-developerslife</guid>
+    <title>Buon Natale da DevelopersLife!!!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buon-natale-da-developerslife</link>
+    undefined
+    <pubDate>Fri, 24 Dec 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</guid>
+    <title>VLOG: La prima conferenza dopo 2 anni! XMAS DevFest Torino</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</link>
+    undefined
+    <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/ci-vediamo-alla-devfest-xmas-torino-4-e-5-dicembre</guid>
+    <title>Ci vediamo alla DevFest XMas Torino, 4 e 5 Dicembre</title>
+    <link>http://localhost:3000/blog/DevelopersLife/ci-vediamo-alla-devfest-xmas-torino-4-e-5-dicembre</link>
+    undefined
+    <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/stipendi-esteri-qualche-considerazione-shorts</guid>
+    <title>Stipendi Esteri, qualche Considerazione! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/stipendi-esteri-qualche-considerazione-shorts</link>
+    undefined
+    <pubDate>Mon, 08 Nov 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</guid>
+    <title>Repost: DevFest Pescara 2019 il VLOG!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</link>
+    undefined
+    <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quali-sono-i-quotlivelliquot-da-developer-shorts</guid>
+    <title>Quali sono i &amp;quot;Livelli&amp;quot; da Developer? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quali-sono-i-quotlivelliquot-da-developer-shorts</link>
+    undefined
+    <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/oggi-un-saluto-da-bergamo-shorts-bergamo</guid>
+    <title>Oggi un saluto da Bergamo! #Shorts #Bergamo</title>
+    <link>http://localhost:3000/blog/DevelopersLife/oggi-un-saluto-da-bergamo-shorts-bergamo</link>
+    undefined
+    <pubDate>Sun, 31 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-saluto-da-bologna</guid>
+    <title>Un saluto da #Bologna</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-saluto-da-bologna</link>
+    undefined
+    <pubDate>Sat, 30 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/migliori-citta-per-trovare-lavoro-da-developer-shorts</guid>
+    <title>Migliori città per trovare lavoro da Developer! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/migliori-citta-per-trovare-lavoro-da-developer-shorts</link>
+    undefined
+    <pubDate>Thu, 28 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-cambiare-lavoro-quotbenequot-shorts</guid>
+    <title>Come cambiare lavoro &amp;quot;bene&amp;quot;? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-cambiare-lavoro-quotbenequot-shorts</link>
+    undefined
+    <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/percorsi-di-studio-alternativi-its-shorts</guid>
+    <title>Percorsi di studio alternativi (ITS) #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/percorsi-di-studio-alternativi-its-shorts</link>
+    undefined
+    <pubDate>Mon, 25 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-entrare-in-una-community-shorts</guid>
+    <title>Come entrare in una Community? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-entrare-in-una-community-shorts</link>
+    undefined
+    <pubDate>Fri, 22 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/miglior-linguaggio-di-programmazione-per-iniziare-shorts</guid>
+    <title>Miglior Linguaggio di Programmazione per Iniziare? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/miglior-linguaggio-di-programmazione-per-iniziare-shorts</link>
+    undefined
+    <pubDate>Thu, 21 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-trovare-le-community-per-developer-shorts</guid>
+    <title>Come trovare le Community per Developer? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-trovare-le-community-per-developer-shorts</link>
+    undefined
+    <pubDate>Wed, 20 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/meglio-frontend-o-backend-developer-shorts</guid>
+    <title>Meglio Frontend o Backend Developer? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/meglio-frontend-o-backend-developer-shorts</link>
+    undefined
+    <pubDate>Tue, 19 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-dovresti-partecipare-alle-conferenze-shorts</guid>
+    <title>Perchè dovresti partecipare alle Conferenze! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-dovresti-partecipare-alle-conferenze-shorts</link>
+    undefined
+    <pubDate>Mon, 18 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-su-coding-e-divulgazione-con-mondo-computazionale</guid>
+    <title>4 Chiacchiere su Coding e Divulgazione con @Mondo Computazionale</title>
+    <link>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-su-coding-e-divulgazione-con-mondo-computazionale</link>
+    undefined
+    <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-consiglio-da-developer-a-developer-sul-tempo-shorts</guid>
+    <title>Un consiglio da Developer a Developer sul Tempo! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-consiglio-da-developer-a-developer-sul-tempo-shorts</link>
+    undefined
+    <pubDate>Sun, 17 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/la-matematica-e-indispensabile-shorts</guid>
+    <title>La Matematica è Indispensabile? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/la-matematica-e-indispensabile-shorts</link>
+    undefined
+    <pubDate>Fri, 15 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/developer-laurea-triennale-o-specialistica-shorts</guid>
+    <title>Developer Laurea Triennale o Specialistica? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/developer-laurea-triennale-o-specialistica-shorts</link>
+    undefined
+    <pubDate>Thu, 14 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</guid>
+    <title>Come confrontarsi con altri Developer al Meglio?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</link>
+    undefined
+    <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/l39inglese-e-indispensabile-per-fare-il-developer-shorts</guid>
+    <title>L&amp;#39;inglese è indispensabile per fare il Developer? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/l39inglese-e-indispensabile-per-fare-il-developer-shorts</link>
+    undefined
+    <pubDate>Tue, 12 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-sistema-operativo-per-iniziare-windows-linux-o-macos-shorts</guid>
+    <title>Quale sistema operativo per iniziare? Windows, Linux o MacOS? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-sistema-operativo-per-iniziare-windows-linux-o-macos-shorts</link>
+    undefined
+    <pubDate>Mon, 11 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-consiglio-da-developer-a-developer-shorts</guid>
+    <title>Un Consiglio da Developer a Developer! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-consiglio-da-developer-a-developer-shorts</link>
+    undefined
+    <pubDate>Fri, 08 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-trovare-il-primo-lavoro-per-developer-shorts</guid>
+    <title>Come trovare il primo lavoro? Per Developer! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-trovare-il-primo-lavoro-per-developer-shorts</link>
+    undefined
+    <pubDate>Thu, 07 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</guid>
+    <title>Come migliorare la tua produttività? Qualche consiglio per Developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</link>
+    undefined
+    <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/la-laurea-e-indispensabile-per-lavorare-come-developer-shorts</guid>
+    <title>La Laurea è indispensabile per Lavorare come Developer? #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/la-laurea-e-indispensabile-per-lavorare-come-developer-shorts</link>
+    undefined
+    <pubDate>Tue, 05 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/softskill-indispensabili-per-developer-shorts</guid>
+    <title>SoftSkill indispensabili per Developer! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/softskill-indispensabili-per-developer-shorts</link>
+    undefined
+    <pubDate>Mon, 04 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/developer-e-certificazioni-utili-shorts</guid>
+    <title>Developer e Certificazioni utili! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/developer-e-certificazioni-utili-shorts</link>
+    undefined
+    <pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/il-ritorno-delle-live-qampa-per-developer-e-aspiranti</guid>
+    <title>Il ritorno delle Live! Q&amp;amp;A per Developer e Aspiranti!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/il-ritorno-delle-live-qampa-per-developer-e-aspiranti</link>
+    undefined
+    <pubDate>Sat, 02 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-imparare-a-comunicare-bene-suggerimenti-per-sviluppatori-software</guid>
+    <title>Perchè imparare a comunicare bene? Suggerimenti per Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-imparare-a-comunicare-bene-suggerimenti-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</guid>
+    <title>Quale IDE di Sviluppo utilizzare per scrivere codice? Il mio parere per Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/oggi-insieme-ad-un-po39-di-streamer-e-youtuber-per-grandi-novita</guid>
+    <title>Oggi insieme ad un po&amp;#39; di Streamer e YouTuber per grandi novità...</title>
+    <link>http://localhost:3000/blog/DevelopersLife/oggi-insieme-ad-un-po39-di-streamer-e-youtuber-per-grandi-novita</link>
+    undefined
+    <pubDate>Sat, 18 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/oggi-un-drink-con-</guid>
+    <title>Oggi un drink con... 😁</title>
+    <link>http://localhost:3000/blog/DevelopersLife/oggi-un-drink-con-</link>
+    undefined
+    <pubDate>Fri, 17 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sistemi-operativi-per-sviluppatori-software-qualche-consiglio-e-considerazione</guid>
+    <title>Sistemi Operativi per Sviluppatori Software: qualche consiglio e considerazione!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sistemi-operativi-per-sviluppatori-software-qualche-consiglio-e-considerazione</link>
+    undefined
+    <pubDate>Thu, 09 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</guid>
+    <title>Speciale: Un anno di YouTube! Da 0 a 1600+ iscritti!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</link>
+    undefined
+    <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-saluto-da-uno-studio-particolare--pausa-caffe</guid>
+    <title>Un saluto da uno studio particolare + Pausa caffè!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-saluto-da-uno-studio-particolare--pausa-caffe</link>
+    undefined
+    <pubDate>Sun, 15 Aug 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-saluto-dai-membri-di-developerslife-a-milano-</guid>
+    <title>Un saluto dai membri di DevelopersLife a Milano 🙂</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-saluto-dai-membri-di-developerslife-a-milano-</link>
+    undefined
+    <pubDate>Tue, 10 Aug 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-saluto--pausa-caffe-</guid>
+    <title>Un saluto + Pausa Caffè! 😁</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-saluto--pausa-caffe-</link>
+    undefined
+    <pubDate>Wed, 04 Aug 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/domande-e-risposte-per-sviluppatori-e-4-chiacchiere</guid>
+    <title>Domande e Risposte per Sviluppatori e 4 Chiacchiere</title>
+    <link>http://localhost:3000/blog/DevelopersLife/domande-e-risposte-per-sviluppatori-e-4-chiacchiere</link>
+    undefined
+    <pubDate>Mon, 26 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cosa-ti-piacerebbe-vedere-negli-shorts-di-developerslife</guid>
+    <title>Cosa ti piacerebbe vedere negli Shorts di #DevelopersLife?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cosa-ti-piacerebbe-vedere-negli-shorts-di-developerslife</link>
+    undefined
+    <pubDate>Mon, 19 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/qualche-news-ontheroad</guid>
+    <title>Qualche News #OnTheRoad</title>
+    <link>http://localhost:3000/blog/DevelopersLife/qualche-news-ontheroad</link>
+    undefined
+    <pubDate>Sun, 18 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-quotordinatiquot-qui-qualche-consiglio-base</guid>
+    <title>Come organizzarsi meglio? Come essere più &amp;quot;ordinati&amp;quot;? Qui qualche consiglio base!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-quotordinatiquot-qui-qualche-consiglio-base</link>
+    undefined
+    <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</guid>
+    <title>Come rimanere concentrati? Qui qualche consiglio!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</link>
+    undefined
+    <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-sceglire-l39universita-consigli-per-aspiranti-sviluppatori-e-non-solo</guid>
+    <title>Come sceglire l&amp;#39;università? Consigli per aspiranti Sviluppatori e non solo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-sceglire-l39universita-consigli-per-aspiranti-sviluppatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cos39e-github-copilot-cosa-ne-penso</guid>
+    <title>Cos&amp;#39;è GitHub Copilot? Cosa ne penso?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cos39e-github-copilot-cosa-ne-penso</link>
+    undefined
+    <pubDate>Mon, 05 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</guid>
+    <title>Come scegliere la scuola superiore? Consigli per futuri Developer e non solo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</link>
+    undefined
+    <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/posso-diventare-uno-sviluppatore-software-qui-un-po-di-considerazioni</guid>
+    <title>Posso diventare uno Sviluppatore Software? Qui un pò di considerazioni!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/posso-diventare-uno-sviluppatore-software-qui-un-po-di-considerazioni</link>
+    undefined
+    <pubDate>Mon, 28 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</guid>
+    <title>News su DevelopersLife: Il Canale dove parliamo della Vita e del Lavoro dello Sviluppatore Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</link>
+    undefined
+    <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</guid>
+    <title>Backend per Sviluppatori Software: 4 Chiacchiere con Gregorio</title>
+    <link>http://localhost:3000/blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</link>
+    undefined
+    <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
+    <title>Elettronica: come iniziare? Quattro chiacchiere con Juna</title>
+    <link>http://localhost:3000/blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
+    undefined
+    <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-con-greta-galli-parliamo-di-vita-lego-e-robotica</guid>
+    <title>4 Chiacchiere con @Greta Galli (parliamo di vita, lego e robotica)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-con-greta-galli-parliamo-di-vita-lego-e-robotica</link>
+    undefined
+    <pubDate>Sun, 20 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/crescere-come-sviluppatore-software-e-come-migliorare-una-chiacchierata-con-jaga</guid>
+    <title>Crescere come Sviluppatore Software e come migliorare! Una chiacchierata con Jaga</title>
+    <link>http://localhost:3000/blog/DevelopersLife/crescere-come-sviluppatore-software-e-come-migliorare-una-chiacchierata-con-jaga</link>
+    undefined
+    <pubDate>Wed, 16 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</guid>
+    <title>4 Chiacchiere e News sul Canale!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</link>
+    undefined
+    <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/lavorare-all39estero-come-developer-4-chiacchiere-insieme-a-leonardo</guid>
+    <title>Lavorare all&amp;#39;estero come Developer, 4 chiacchiere insieme a Leonardo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/lavorare-all39estero-come-developer-4-chiacchiere-insieme-a-leonardo</link>
+    undefined
+    <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/live-coding-su-angular-con-fabio-biondi</guid>
+    <title>Live Coding su Angular con @Fabio Biondi</title>
+    <link>http://localhost:3000/blog/DevelopersLife/live-coding-su-angular-con-fabio-biondi</link>
+    undefined
+    <pubDate>Wed, 09 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</guid>
+    <title>Quattro chiacchiere su Flutter! Sviluppare Software con Flutter nel 2021</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</link>
+    undefined
+    <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</guid>
+    <title>Vita, universo e tutto ciò che riguarda la Realtà Estesa, Sviluppare Virtual/Augmented/Mixed Reality</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</link>
+    undefined
+    <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso---d8techdays</guid>
+    <title>Perchè (da Sviluppatore) imparare Docker? E perchè farlo proprio adesso? - #D8TechDays</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso---d8techdays</link>
+    undefined
+    <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/essere-sviluppatori-nel-2021-consigli-su-come-sopravvivere-alle-informazioni</guid>
+    <title>Essere Sviluppatori nel 2021, consigli su come sopravvivere alle informazioni!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/essere-sviluppatori-nel-2021-consigli-su-come-sopravvivere-alle-informazioni</link>
+    undefined
+    <pubDate>Sun, 30 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-della-settimana-e-4-chiacchiere-w-tomorrowdevs</guid>
+    <title>News della Settimana e 4 chiacchiere! w/ @TomorrowDevs</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-della-settimana-e-4-chiacchiere-w-tomorrowdevs</link>
+    undefined
+    <pubDate>Sat, 29 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/stackoverflow-cos39e-e-perche-da-sviluppatori-dovreste-usarlo</guid>
+    <title>Stackoverflow, cos&amp;#39;è e perche da Sviluppatori dovreste usarlo?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/stackoverflow-cos39e-e-perche-da-sviluppatori-dovreste-usarlo</link>
+    undefined
+    <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-della-settimana-speciale-google-io-e-4-chiacchiere-w-tomorrowdevs</guid>
+    <title>News della Settimana, speciale Google I/O e 4 chiacchiere! w/ @TomorrowDevs</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-della-settimana-speciale-google-io-e-4-chiacchiere-w-tomorrowdevs</link>
+    undefined
+    <pubDate>Sat, 22 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</guid>
+    <title>Sta arrivando la D8 Tech Days! Una serie di chiacchierate per Sviluppatori e Apprendisti Developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</link>
+    undefined
+    <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quali-materie-universitarie-sono-utili-come-sviluppatore-software</guid>
+    <title>Quali materie Universitarie sono utili come Sviluppatore Software?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quali-materie-universitarie-sono-utili-come-sviluppatore-software</link>
+    undefined
+    <pubDate>Mon, 17 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cos39e-cambiato-negli-ultimi-15-anni-per-cio-che-riguarda-lo-sviluppo-web</guid>
+    <title>Cos&amp;#39;è cambiato negli ultimi 15 anni (per ciò che riguarda lo Sviluppo Web)?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cos39e-cambiato-negli-ultimi-15-anni-per-cio-che-riguarda-lo-sviluppo-web</link>
+    undefined
+    <pubDate>Wed, 12 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppiamo-lo-snake-facile-con-htmlcssjavascript</guid>
+    <title>Sviluppiamo lo Snake (facile) con HTML+CSS+JavaScript</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppiamo-lo-snake-facile-con-htmlcssjavascript</link>
+    undefined
+    <pubDate>Mon, 10 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</guid>
+    <title>Accessibilità, ne parliamo con i ragazzi degli Accessibility Days</title>
+    <link>http://localhost:3000/blog/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</link>
+    undefined
+    <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-considerazioni-sull39eta-per-quotscrivere-codicequot</guid>
+    <title>Sviluppatori, considerazioni sull&amp;#39;età per &amp;quot;scrivere codice&amp;quot;</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-considerazioni-sull39eta-per-quotscrivere-codicequot</link>
+    undefined
+    <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</guid>
+    <title>Tema Light vs Dark per IDE e Programmi, quale scegliere e perchè?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</link>
+    undefined
+    <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-della-settimana-news-per-sviluppatori-e-4-chiacchiere-w-tomorrowdevs</guid>
+    <title>News della Settimana, news per Sviluppatori e 4 chiacchiere! w/ @TomorrowDevs</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-della-settimana-news-per-sviluppatori-e-4-chiacchiere-w-tomorrowdevs</link>
+    undefined
+    <pubDate>Sat, 01 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/frontend-developer-quali-linguaggi-framework-e-tool-bisogna-conoscere</guid>
+    <title>Frontend Developer: quali Linguaggi, Framework e Tool bisogna conoscere?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/frontend-developer-quali-linguaggi-framework-e-tool-bisogna-conoscere</link>
+    undefined
+    <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cos39e-git-cosa-sono-github-gitlab-e-bitbucket</guid>
+    <title>Cos&amp;#39;è GIT? Cosa sono Github, Gitlab e Bitbucket?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cos39e-git-cosa-sono-github-gitlab-e-bitbucket</link>
+    undefined
+    <pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</guid>
+    <title>Sviluppatori e approcci a Microservizi VS Monoliti (ed un pò di filosofia dello sviluppo software)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</link>
+    undefined
+    <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatore-web-cosa-posso-sviluppare-con-le-tecnologie-web</guid>
+    <title>Sviluppatore Web: cosa posso sviluppare con le tecnologie web?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatore-web-cosa-posso-sviluppare-con-le-tecnologie-web</link>
+    undefined
+    <pubDate>Mon, 19 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/machine-learning-e-dintorni</guid>
+    <title>Machine Learning e Dintorni!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/machine-learning-e-dintorni</link>
+    undefined
+    <pubDate>Sun, 18 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-rispondere-ad-altri-programmatori-nel-modo-giusto</guid>
+    <title>Come rispondere ad altri Programmatori (nel modo giusto)?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-rispondere-ad-altri-programmatori-nel-modo-giusto</link>
+    undefined
+    <pubDate>Wed, 14 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tecnologie-linguaggi-e-framework-che-studierei-per-diventare-programmatore-oggi</guid>
+    <title>Tecnologie, Linguaggi e Framework che studierei per diventare Programmatore oggi!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tecnologie-linguaggi-e-framework-che-studierei-per-diventare-programmatore-oggi</link>
+    undefined
+    <pubDate>Mon, 12 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/developers-e-lavoro-w-thecarmhack</guid>
+    <title>Developers e Lavoro w/ @TheCarmhack</title>
+    <link>http://localhost:3000/blog/DevelopersLife/developers-e-lavoro-w-thecarmhack</link>
+    undefined
+    <pubDate>Sun, 11 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</guid>
+    <title>Vivere a Milano? La mia esperienza! (Per Sviluppatori e non solo!)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/lego-bonsai-tree---unboxing-e-montaggio</guid>
+    <title>Lego: Bonsai Tree - Unboxing e Montaggio!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/lego-bonsai-tree---unboxing-e-montaggio</link>
+    undefined
+    <pubDate>Mon, 05 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/ama-ask-me-anything-voi-chiedete-ed-io-rispondo</guid>
+    <title>AMA: Ask me anything (voi chiedete ed io rispondo)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/ama-ask-me-anything-voi-chiedete-ed-io-rispondo</link>
+    undefined
+    <pubDate>Sun, 04 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-della-settimana-le-ultime-notizie-per-sviluppatori-e-non-solo-w-tomorrowdevs</guid>
+    <title>News della Settimana, le ultime notizie per Sviluppatori e non solo! w/ @TomorrowDevs</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-della-settimana-le-ultime-notizie-per-sviluppatori-e-non-solo-w-tomorrowdevs</link>
+    undefined
+    <pubDate>Sat, 03 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/iniziare-a-fare-lo-sviluppatore-da-freelance-su-portali-di-quotlavorettiquot-e-marketplace</guid>
+    <title>Iniziare a fare lo Sviluppatore da Freelance su Portali di &amp;quot;Lavoretti&amp;quot; e Marketplace!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/iniziare-a-fare-lo-sviluppatore-da-freelance-su-portali-di-quotlavorettiquot-e-marketplace</link>
+    undefined
+    <pubDate>Wed, 31 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-a-milano-un-po-di-suggerimenti-su-come-trovare-lavoro-in-citta</guid>
+    <title>Sviluppatore Software a Milano? Un pò di suggerimenti su come trovare lavoro in città!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-a-milano-un-po-di-suggerimenti-su-come-trovare-lavoro-in-citta</link>
+    undefined
+    <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/community-chat-con-crafted-software</guid>
+    <title>Community Chat con Crafted Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/community-chat-con-crafted-software</link>
+    undefined
+    <pubDate>Sun, 28 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-della-settimana-2-e-qampa-con-tomorrowdevs</guid>
+    <title>News della Settimana #2 e Q&amp;amp;A con @TomorrowDevs</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-della-settimana-2-e-qampa-con-tomorrowdevs</link>
+    undefined
+    <pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</guid>
+    <title>Sviluppatori, imparate a fare le giuste domande nel modo giusto!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</link>
+    undefined
+    <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/chiedere-un-aumento-di-stipendio-da-sviluppatore-consigli-pratici</guid>
+    <title>Chiedere un Aumento di Stipendio da Sviluppatore! Consigli Pratici</title>
+    <link>http://localhost:3000/blog/DevelopersLife/chiedere-un-aumento-di-stipendio-da-sviluppatore-consigli-pratici</link>
+    undefined
+    <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/due-chiacchiere-random-con-domande-e-risposte</guid>
+    <title>Due chiacchiere Random con Domande e Risposte</title>
+    <link>http://localhost:3000/blog/DevelopersLife/due-chiacchiere-random-con-domande-e-risposte</link>
+    undefined
+    <pubDate>Mon, 22 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-della-settimana-1-e-qampa</guid>
+    <title>News Della Settimana #1 e Q&amp;amp;A</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-della-settimana-1-e-qampa</link>
+    undefined
+    <pubDate>Sat, 20 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-il-vostro-codice-e-importante-state-attenti-ai-dettagli-</guid>
+    <title>Programmatori il vostro codice è importante, state attenti ai dettagli! :)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-il-vostro-codice-e-importante-state-attenti-ai-dettagli-</link>
+    undefined
+    <pubDate>Wed, 17 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/due-news-di-questa-settimana-shorts</guid>
+    <title>Due News di questa settimana! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/due-news-di-questa-settimana-shorts</link>
+    undefined
+    <pubDate>Tue, 16 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</guid>
+    <title>Equilibrio tra Lavoro e Vita. Panoramica per sviluppatori e non sul work-life balance</title>
+    <link>http://localhost:3000/blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</link>
+    undefined
+    <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-guadagnare-di-piu-e-altre-domande-per-sviluppatori-software-w-devday</guid>
+    <title>Come Guadagnare di più e altre Domande per Sviluppatori Software w/ @DevDay</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-guadagnare-di-piu-e-altre-domande-per-sviluppatori-software-w-devday</link>
+    undefined
+    <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/oggi-e-il-giorno-del-pi-grego---shorts</guid>
+    <title>Oggi è il giorno del Pi Grego π ! #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/oggi-e-il-giorno-del-pi-grego---shorts</link>
+    undefined
+    <pubDate>Sun, 14 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/contratto-metalmeccanico-vs-commercio-shorts</guid>
+    <title>Contratto Metalmeccanico VS Commercio #Shorts</title>
+    <link>http://localhost:3000/blog/DevelopersLife/contratto-metalmeccanico-vs-commercio-shorts</link>
+    undefined
+    <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-per-sviluppatori---edizione-1-parliamo-di-ovh-flutter-2-es2021-eventi</guid>
+    <title>News per Sviluppatori - Edizione 1: Parliamo di OVH, Flutter 2, ES2021, Eventi</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-per-sviluppatori---edizione-1-parliamo-di-ovh-flutter-2-es2021-eventi</link>
+    undefined
+    <pubDate>Sat, 13 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</guid>
+    <title>Soft Skill: Parlare in pubblico e Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</link>
+    undefined
+    <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppare-codice-ascoltando-musica-aiuta-quale-musica-conviene-ascoltare</guid>
+    <title>Sviluppare codice ascoltando Musica aiuta? Quale musica conviene ascoltare?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppare-codice-ascoltando-musica-aiuta-quale-musica-conviene-ascoltare</link>
+    undefined
+    <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quanto-vale-il-tuo-tempo-domande-e-risposte-sul-tempo-per-sviluppatori</guid>
+    <title>Quanto vale il tuo tempo? Domande e Risposte sul tempo per Sviluppatori</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quanto-vale-il-tuo-tempo-domande-e-risposte-sul-tempo-per-sviluppatori</link>
+    undefined
+    <pubDate>Sun, 07 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/macbook-air-m1-per-sviluppare-ed-editing-video---due-mesi-dopo</guid>
+    <title>Macbook Air M1 per Sviluppare ed Editing Video - Due Mesi Dopo</title>
+    <link>http://localhost:3000/blog/DevelopersLife/macbook-air-m1-per-sviluppare-ed-editing-video---due-mesi-dopo</link>
+    undefined
+    <pubDate>Fri, 05 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/bitcoin-in-action-playground</guid>
+    <title>Bitcoin In Action playground!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/bitcoin-in-action-playground</link>
+    undefined
+    <pubDate>Thu, 04 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/la-torre-di-pisa-insegnamenti-per-developer-e-aspiranti</guid>
+    <title>La torre di Pisa, insegnamenti per Developer (e aspiranti)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/la-torre-di-pisa-insegnamenti-per-developer-e-aspiranti</link>
+    undefined
+    <pubDate>Wed, 03 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/5-film-da-vedere-e-perche-a-me-piacciono-</guid>
+    <title>5 Film da vedere e perché a me piacciono! :)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/5-film-da-vedere-e-perche-a-me-piacciono-</link>
+    undefined
+    <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/how-to-processi-di-selezione-curriculum-colloqui-conoscitivi-e-tecnici</guid>
+    <title>HOW TO: Processi di Selezione, Curriculum, Colloqui Conoscitivi e Tecnici.</title>
+    <link>http://localhost:3000/blog/DevelopersLife/how-to-processi-di-selezione-curriculum-colloqui-conoscitivi-e-tecnici</link>
+    undefined
+    <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/il-magico-mondo-delle-tastiere-per-sviluppatori-software</guid>
+    <title>Il magico mondo delle tastiere per Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/il-magico-mondo-delle-tastiere-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/curriculum-guida-pratica-per-programmatori-e-non-solo</guid>
+    <title>Curriculum, guida pratica per Programmatori (e non solo)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/curriculum-guida-pratica-per-programmatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/alcuni-insegnamenti-da-star-wars-per-sviluppatori-e-apprendistipadawan</guid>
+    <title>Alcuni insegnamenti da Star Wars per Sviluppatori (e apprendisti/padawan)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/alcuni-insegnamenti-da-star-wars-per-sviluppatori-e-apprendistipadawan</link>
+    undefined
+    <pubDate>Mon, 22 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-domande-a-caso-random-live-del-weekend</guid>
+    <title>Sviluppatori e domande a caso! Random Live del weekend.</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-domande-a-caso-random-live-del-weekend</link>
+    undefined
+    <pubDate>Sun, 21 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/random-live---il-qampa-infrasettimanale-che-non-ti-aspetti</guid>
+    <title>Random Live - Il Q&amp;amp;A infrasettimanale che non ti aspetti!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/random-live---il-qampa-infrasettimanale-che-non-ti-aspetti</link>
+    undefined
+    <pubDate>Thu, 18 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/i-migliori-telefilm-da-vedere-sulla-tecnologia-la-mia-personale-lista</guid>
+    <title>I migliori telefilm da vedere sulla tecnologia! La mia personale lista</title>
+    <link>http://localhost:3000/blog/DevelopersLife/i-migliori-telefilm-da-vedere-sulla-tecnologia-la-mia-personale-lista</link>
+    undefined
+    <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/un-coffee-break-insieme-a-pausa-caffe-riservato-a-programmatori-o-apprendisti</guid>
+    <title>Un coffee break insieme a Pausa Caffè: Riservato a Programmatori o Apprendisti</title>
+    <link>http://localhost:3000/blog/DevelopersLife/un-coffee-break-insieme-a-pausa-caffe-riservato-a-programmatori-o-apprendisti</link>
+    undefined
+    <pubDate>Sun, 14 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/speciale-vlog-1000-iscritti-youtube-un-programmatore-in-giro-per-milano</guid>
+    <title>Speciale VLOG 1000 Iscritti Youtube: un Programmatore in giro per Milano!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/speciale-vlog-1000-iscritti-youtube-un-programmatore-in-giro-per-milano</link>
+    undefined
+    <pubDate>Sat, 13 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/da-sviluppatore-a-solution-o-cloud-architect</guid>
+    <title>Da Sviluppatore a Solution o Cloud Architect</title>
+    <link>http://localhost:3000/blog/DevelopersLife/da-sviluppatore-a-solution-o-cloud-architect</link>
+    undefined
+    <pubDate>Fri, 12 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/custom-framework-e-sviluppo-perche-da-sviluppatore-non-sono-una-buona-idea</guid>
+    <title>Custom Framework e Sviluppo: perchè da Sviluppatore non sono una buona idea!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/custom-framework-e-sviluppo-perche-da-sviluppatore-non-sono-una-buona-idea</link>
+    undefined
+    <pubDate>Wed, 10 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/iniziare-la-carriera-come-sviluppatore-freelancer</guid>
+    <title>Iniziare la carriera come sviluppatore freelancer</title>
+    <link>http://localhost:3000/blog/DevelopersLife/iniziare-la-carriera-come-sviluppatore-freelancer</link>
+    undefined
+    <pubDate>Mon, 08 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-e-tech-startup-tutto-quello-che-c39e-da-sapere</guid>
+    <title>Programmatori e Tech Startup, tutto quello che c&amp;#39;è da sapere!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-e-tech-startup-tutto-quello-che-c39e-da-sapere</link>
+    undefined
+    <pubDate>Sun, 07 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/live-speciale-1000-iscritti-</guid>
+    <title>LIVE: Speciale 1000 iscritti ❤️</title>
+    <link>http://localhost:3000/blog/DevelopersLife/live-speciale-1000-iscritti-</link>
+    undefined
+    <pubDate>Sat, 06 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</guid>
+    <title>Soft Skill per Sviluppatori. Come diventare un programmatore migliore?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</link>
+    undefined
+    <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-linguaggio-di-programmazione-per-iniziare-e-perche</guid>
+    <title>Quale linguaggio di programmazione per iniziare e perchè?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-linguaggio-di-programmazione-per-iniziare-e-perche</link>
+    undefined
+    <pubDate>Mon, 01 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/live-introduzione-a-docker</guid>
+    <title>Live Introduzione a Docker</title>
+    <link>http://localhost:3000/blog/DevelopersLife/live-introduzione-a-docker</link>
+    undefined
+    <pubDate>Sun, 31 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</guid>
+    <title>5000 euro al mese da sviluppatore (o programmatore software) è possibile in italia?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</link>
+    undefined
+    <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/south-working-programmatori-in-smart-working-il-futuro-la-mia-opinione</guid>
+    <title>South Working: Programmatori in Smart Working il futuro, la mia opinione!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/south-working-programmatori-in-smart-working-il-futuro-la-mia-opinione</link>
+    undefined
+    <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</guid>
+    <title>Sviluppatore Software: perché sviluppare software è un lavoro semplice ma non facile!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</link>
+    undefined
+    <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/ama-ask-me-anything---passioni-e-hobby-da-sviluppatori-software</guid>
+    <title>AMA Ask Me Anything - Passioni e Hobby da Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/ama-ask-me-anything---passioni-e-hobby-da-sviluppatori-software</link>
+    undefined
+    <pubDate>Sun, 24 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/manager-vs-sviluppatore-software-avanzamenti-di-carriera-risposte-qui</guid>
+    <title>Manager vs Sviluppatore Software? Avanzamenti di carriera? Risposte qui!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/manager-vs-sviluppatore-software-avanzamenti-di-carriera-risposte-qui</link>
+    undefined
+    <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</guid>
+    <title>La laurea e la matematica per programmare sono indispensabili?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</link>
+    undefined
+    <pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/il-primo-lavoro-da-programmatore-qui-qualche-consiglio</guid>
+    <title>Il primo lavoro da programmatore, qui qualche consiglio!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/il-primo-lavoro-da-programmatore-qui-qualche-consiglio</link>
+    undefined
+    <pubDate>Mon, 18 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/qampa---domande-e-risposte-sulla-vita-e-il-lavoro-degli-sviluppatori</guid>
+    <title>Q&amp;amp;A - Domande e Risposte (sulla vita e il lavoro degli sviluppatori)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/qampa---domande-e-risposte-sulla-vita-e-il-lavoro-degli-sviluppatori</link>
+    undefined
+    <pubDate>Sun, 17 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-e-il-futuro-dello-smart-working-in-italia-cosa-ne-penso</guid>
+    <title>Programmatori e il futuro dello smart working in italia, cosa ne penso?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-e-il-futuro-dello-smart-working-in-italia-cosa-ne-penso</link>
+    undefined
+    <pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori---parte-ii-</guid>
+    <title>Suggerimenti dal FUTURO per Sviluppatori - PARTE II ⏰⬅️🚗💨⚡️✌️</title>
+    <link>http://localhost:3000/blog/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori---parte-ii-</link>
+    undefined
+    <pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore-</guid>
+    <title>Programmatori: strumenti per promuoversi e raccontare le proprie capacità da sviluppatore! 👨‍💻</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore-</link>
+    undefined
+    <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/insieme-a-diana-parliamo-di-networking</guid>
+    <title>Insieme a Diana, parliamo di Networking!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/insieme-a-diana-parliamo-di-networking</link>
+    undefined
+    <pubDate>Sun, 10 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori-</guid>
+    <title>Suggerimenti dal FUTURO per Sviluppatori! ⏰⬅️🚗💨⚡️</title>
+    <link>http://localhost:3000/blog/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori-</link>
+    undefined
+    <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buoni-propositi-del-2021</guid>
+    <title>Buoni Propositi del 2021</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buoni-propositi-del-2021</link>
+    undefined
+    <pubDate>Mon, 04 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/percorso-da-developer-nel-2021---domande-e-risposte</guid>
+    <title>Percorso da Developer nel 2021 - Domande e Risposte</title>
+    <link>http://localhost:3000/blog/DevelopersLife/percorso-da-developer-nel-2021---domande-e-risposte</link>
+    undefined
+    <pubDate>Sun, 03 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buon-anno-nuovo-il-2020-in-un-video</guid>
+    <title>Buon Anno Nuovo! Il 2020 in un video</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buon-anno-nuovo-il-2020-in-un-video</link>
+    undefined
+    <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/qampa-di-fine-anno</guid>
+    <title>Q&amp;amp;A di Fine Anno</title>
+    <link>http://localhost:3000/blog/DevelopersLife/qampa-di-fine-anno</link>
+    undefined
+    <pubDate>Thu, 31 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/macbook-air-m1-unboxing-per-sviluppatori</guid>
+    <title>Macbook AIR M1: Unboxing per Sviluppatori</title>
+    <link>http://localhost:3000/blog/DevelopersLife/macbook-air-m1-unboxing-per-sviluppatori</link>
+    undefined
+    <pubDate>Mon, 28 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/live-coding-01---htmlcssjavascript---per-principianti</guid>
+    <title>Live Coding 01 - HTML/CSS/JavaScript - Per Principianti</title>
+    <link>http://localhost:3000/blog/DevelopersLife/live-coding-01---htmlcssjavascript---per-principianti</link>
+    undefined
+    <pubDate>Sun, 27 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buon-natale-a-reti-unificate-</guid>
+    <title>Buon Natale a Reti Unificate! 🤶</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buon-natale-a-reti-unificate-</link>
+    undefined
+    <pubDate>Thu, 24 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/video-live---progetti-per-le-vacanze</guid>
+    <title>Video Live - Progetti per le vacanze</title>
+    <link>http://localhost:3000/blog/DevelopersLife/video-live---progetti-per-le-vacanze</link>
+    undefined
+    <pubDate>Thu, 24 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/video-live---lavori-da-developer</guid>
+    <title>Video Live - Lavori da Developer</title>
+    <link>http://localhost:3000/blog/DevelopersLife/video-live---lavori-da-developer</link>
+    undefined
+    <pubDate>Tue, 22 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/qampa-3---domande-e-risposte</guid>
+    <title>Q&amp;amp;A #3 - Domande e Risposte</title>
+    <link>http://localhost:3000/blog/DevelopersLife/qampa-3---domande-e-risposte</link>
+    undefined
+    <pubDate>Sun, 20 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</guid>
+    <title>Annunci di lavoro per Programmatori? Qui qualche consiglio</title>
+    <link>http://localhost:3000/blog/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</link>
+    undefined
+    <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</guid>
+    <title>Sviluppatori Software: opportunità e la capacità di saltare (di tanto in tanto)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</link>
+    undefined
+    <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-da-zero-a-hero-il-percorso-di-un-developer-in-azienda</guid>
+    <title>Programmatori: da zero a hero (il percorso di un developer in azienda)</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-da-zero-a-hero-il-percorso-di-un-developer-in-azienda</link>
+    undefined
+    <pubDate>Mon, 14 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vite-da-developers-studi-professioni-community-e-divulgazione</guid>
+    <title>Vite da developers, studi, professioni, community e divulgazione</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vite-da-developers-studi-professioni-community-e-divulgazione</link>
+    undefined
+    <pubDate>Sun, 13 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</guid>
+    <title>Quali aziende ti permettono di crescere come Developer?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</link>
+    undefined
+    <pubDate>Fri, 11 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-consiglio-daresti-al-te-stesso-del-passato</guid>
+    <title>Quale consiglio daresti al te stesso del passato?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-consiglio-daresti-al-te-stesso-del-passato</link>
+    undefined
+    <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</guid>
+    <title>Come organizzerei (idealmente) un progetto in team di sviluppo software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</link>
+    undefined
+    <pubDate>Mon, 07 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-scegliere-la-tua-prossima-azienda</guid>
+    <title>Come scegliere la tua prossima azienda?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-scegliere-la-tua-prossima-azienda</link>
+    undefined
+    <pubDate>Sun, 06 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/italia-e-tecnologia-siamo-indietro-su-quotinvestimentiquot-e-conoscenza</guid>
+    <title>Italia e Tecnologia, siamo indietro su &amp;quot;investimenti&amp;quot; e conoscenza?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/italia-e-tecnologia-siamo-indietro-su-quotinvestimentiquot-e-conoscenza</link>
+    undefined
+    <pubDate>Fri, 04 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</guid>
+    <title>Gli algoritmi ci ruberanno il lavoro? Considerazioni da Developer</title>
+    <link>http://localhost:3000/blog/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</link>
+    undefined
+    <pubDate>Wed, 02 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</guid>
+    <title>CCNL Commercio o Metalmeccanico per Programmatori/Sviluppatori/Developer?!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</link>
+    undefined
+    <pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tu-domanda-io-se-lo-so-rispondo</guid>
+    <title>Tu domanda, io (se lo so) rispondo!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tu-domanda-io-se-lo-so-rispondo</link>
+    undefined
+    <pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</guid>
+    <title>A che età si può imparare la programmazione? A che età si può diventare Developer?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</link>
+    undefined
+    <pubDate>Fri, 27 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tipologie-di-aziende-di-sviluppo</guid>
+    <title>Tipologie di aziende di sviluppo</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tipologie-di-aziende-di-sviluppo</link>
+    undefined
+    <pubDate>Wed, 25 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</guid>
+    <title>Posso fare il Developer? Come capire se sviluppare software è la mia strada?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</link>
+    undefined
+    <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/blockchain-e-dintorni</guid>
+    <title>Blockchain e Dintorni</title>
+    <link>http://localhost:3000/blog/DevelopersLife/blockchain-e-dintorni</link>
+    undefined
+    <pubDate>Sun, 22 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/gironi-dell39inferno-per-developer</guid>
+    <title>Gironi dell&amp;#39;inferno per Developer</title>
+    <link>http://localhost:3000/blog/DevelopersLife/gironi-dell39inferno-per-developer</link>
+    undefined
+    <pubDate>Fri, 20 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</guid>
+    <title>Specialisti VS Fullstack? Quale la migliore strada da Developer?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</link>
+    undefined
+    <pubDate>Wed, 18 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</guid>
+    <title>Alcuni canali YouTube che DOVRESTI seguire! Per Developer e aspiranti</title>
+    <link>http://localhost:3000/blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</link>
+    undefined
+    <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/random-live-with-jagasantagostino</guid>
+    <title>Random Live with @JagaSantagostino</title>
+    <link>http://localhost:3000/blog/DevelopersLife/random-live-with-jagasantagostino</link>
+    undefined
+    <pubDate>Sun, 15 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</guid>
+    <title>Perchè DEVI aiutare il prossimo! Aiutarsi tra Developer</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</link>
+    undefined
+    <pubDate>Fri, 13 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</guid>
+    <title>Quando diventi senior? Qui la risposta!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</link>
+    undefined
+    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-non-dovresti-fare-il-developer</guid>
+    <title>Perchè NON dovresti fare il Developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-non-dovresti-fare-il-developer</link>
+    undefined
+    <pubDate>Mon, 09 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/qampa-2-domande-e-risposte-sulla-vita-degli-sviluppatori</guid>
+    <title>Q&amp;amp;A #2 Domande e Risposte sulla vita degli sviluppatori</title>
+    <link>http://localhost:3000/blog/DevelopersLife/qampa-2-domande-e-risposte-sulla-vita-degli-sviluppatori</link>
+    undefined
+    <pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/community-cosa-sono</guid>
+    <title>Community: cosa sono?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/community-cosa-sono</link>
+    undefined
+    <pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-e-quando-chiedere-aiuto</guid>
+    <title>Come e quando chiedere aiuto</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-e-quando-chiedere-aiuto</link>
+    undefined
+    <pubDate>Wed, 04 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</guid>
+    <title>Come non svendere il tuo lavoro!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</link>
+    undefined
+    <pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/dipendente-vs-freelance-with-carmhack</guid>
+    <title>Dipendente VS Freelance with @Carmhack</title>
+    <link>http://localhost:3000/blog/DevelopersLife/dipendente-vs-freelance-with-carmhack</link>
+    undefined
+    <pubDate>Sun, 01 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tecnologie-per-nuovi-progetti</guid>
+    <title>Tecnologie per nuovi progetti</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tecnologie-per-nuovi-progetti</link>
+    undefined
+    <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/lavoro-nord-vs-sud</guid>
+    <title>Lavoro: Nord VS Sud</title>
+    <link>http://localhost:3000/blog/DevelopersLife/lavoro-nord-vs-sud</link>
+    undefined
+    <pubDate>Mon, 26 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/diventare-sviluppatori-web-nel-2020-with-isjeady</guid>
+    <title>Diventare Sviluppatori Web nel 2020 with @isjeady</title>
+    <link>http://localhost:3000/blog/DevelopersLife/diventare-sviluppatori-web-nel-2020-with-isjeady</link>
+    undefined
+    <pubDate>Sun, 25 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-studiare-nuove-tecnologie-linguaggi-o-framework</guid>
+    <title>Come studiare nuove tecnologie, linguaggi o framework?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-studiare-nuove-tecnologie-linguaggi-o-framework</link>
+    undefined
+    <pubDate>Fri, 23 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</guid>
+    <title>Design Pattern cosa sono? A cosa servono?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</link>
+    undefined
+    <pubDate>Wed, 21 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/diventare-ricchi-programmando</guid>
+    <title>Diventare ricchi programmando?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/diventare-ricchi-programmando</link>
+    undefined
+    <pubDate>Mon, 19 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-gestire-i-propri-errori-consigli-pratici-per-developers</guid>
+    <title>Come gestire i propri errori, consigli pratici per Developers!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-gestire-i-propri-errori-consigli-pratici-per-developers</link>
+    undefined
+    <pubDate>Fri, 16 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/road-to-devfest-italia-2020</guid>
+    <title>Road to DevFest Italia 2020</title>
+    <link>http://localhost:3000/blog/DevelopersLife/road-to-devfest-italia-2020</link>
+    undefined
+    <pubDate>Thu, 15 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</guid>
+    <title>Buone Abitudini per Sviluppatori Software</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-formarsi-per-diventare-developer-con-tomorrowdevs</guid>
+    <title>Come formarsi per diventare Developer? Con @TomorrowDevs</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-formarsi-per-diventare-developer-con-tomorrowdevs</link>
+    undefined
+    <pubDate>Sun, 11 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/diventare-programmatore-in-una-startup</guid>
+    <title>Diventare programmatore in una startup</title>
+    <link>http://localhost:3000/blog/DevelopersLife/diventare-programmatore-in-una-startup</link>
+    undefined
+    <pubDate>Fri, 09 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</guid>
+    <title>Cambiare lavoro: il coraggio della scelta</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</link>
+    undefined
+    <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/windows-vs-linux-vs-mac-os-quale-sistema-per-sviluppare</guid>
+    <title>Windows vs Linux vs Mac Os: Quale sistema per sviluppare?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/windows-vs-linux-vs-mac-os-quale-sistema-per-sviluppare</link>
+    undefined
+    <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/qampa-1---domande-e-risposte-sulla-vita-degli-sviluppatori</guid>
+    <title>Q&amp;amp;A #1 - Domande e Risposte sulla vita degli sviluppatori</title>
+    <link>http://localhost:3000/blog/DevelopersLife/qampa-1---domande-e-risposte-sulla-vita-degli-sviluppatori</link>
+    undefined
+    <pubDate>Sun, 04 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-lavorare-in-team</guid>
+    <title>Come lavorare in Team?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-lavorare-in-team</link>
+    undefined
+    <pubDate>Fri, 02 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/informatica-vs-ingegneria-informatica</guid>
+    <title>Informatica VS Ingegneria Informatica</title>
+    <link>http://localhost:3000/blog/DevelopersLife/informatica-vs-ingegneria-informatica</link>
+    undefined
+    <pubDate>Wed, 30 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/l39importanza-del-lavoro-degli-sviluppatori</guid>
+    <title>L&amp;#39;importanza del lavoro degli Sviluppatori</title>
+    <link>http://localhost:3000/blog/DevelopersLife/l39importanza-del-lavoro-degli-sviluppatori</link>
+    undefined
+    <pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/dibattito-sulla-carriera-da-sviluppatore-w-symongaze-</guid>
+    <title>Dibattito sulla carriera da sviluppatore w/ @symongaze 🥊</title>
+    <link>http://localhost:3000/blog/DevelopersLife/dibattito-sulla-carriera-da-sviluppatore-w-symongaze-</link>
+    undefined
+    <pubDate>Sun, 27 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-trovare-il-tempo---consigli-utili-per-developer-che-vogliono-imparare-o-migliorare</guid>
+    <title>Come trovare il tempo - Consigli utili per Developer che vogliono imparare o migliorare!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-trovare-il-tempo---consigli-utili-per-developer-che-vogliono-imparare-o-migliorare</link>
+    undefined
+    <pubDate>Thu, 24 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</guid>
+    <title>Certificazioni per Developer! Consigli e pareri</title>
+    <link>http://localhost:3000/blog/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</link>
+    undefined
+    <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</guid>
+    <title>DevFest Italia 2020! La conferenza online organizzata dai GDG Italiani!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</link>
+    undefined
+    <pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/pulsanti-che-non-funzionano-cosa-sono-i-pulsanti-placebo</guid>
+    <title>Pulsanti che non funzionano. Cosa sono i pulsanti placebo?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/pulsanti-che-non-funzionano-cosa-sono-i-pulsanti-placebo</link>
+    undefined
+    <pubDate>Sun, 20 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</guid>
+    <title>Come cambiare lavoro? Consigli utili per developer che vogliono cambiare azienda!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</link>
+    undefined
+    <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</guid>
+    <title>Cosa sono le Soft Skill: un pò di informazioni utili</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</link>
+    undefined
+    <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-fare-un-colloquio-di-lavoro</guid>
+    <title>Come fare un colloquio di lavoro</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-fare-un-colloquio-di-lavoro</link>
+    undefined
+    <pubDate>Fri, 11 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-fare-un-curriculum-vitae-per-developer</guid>
+    <title>Come fare un curriculum vitae per developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-fare-un-curriculum-vitae-per-developer</link>
+    undefined
+    <pubDate>Tue, 08 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</guid>
+    <title>Mario Kart Live: Home Circuit, quale tecnologia utilizza? Parliamo di realtà aumentata</title>
+    <link>http://localhost:3000/blog/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</link>
+    undefined
+    <pubDate>Sat, 05 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-linguaggio-di-programmazione-scegliere-per-iniziare</guid>
+    <title>Quale linguaggio di programmazione scegliere per iniziare?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-linguaggio-di-programmazione-scegliere-per-iniziare</link>
+    undefined
+    <pubDate>Thu, 03 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quanto-guadagna-uno-sviluppatore-quali-fattori-influiscono-sullo-stipendio-dei-developer</guid>
+    <title>Quanto guadagna uno sviluppatore? Quali fattori influiscono sullo stipendio dei developer?</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quanto-guadagna-uno-sviluppatore-quali-fattori-influiscono-sullo-stipendio-dei-developer</link>
+    undefined
+    <pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</guid>
+    <title>Università di Google o Laurea di Google. Cosa significa? Qui la mia opinione!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</link>
+    undefined
+    <pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</guid>
+    <title>3 semplici consigli su come lavorare in smart working!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</link>
+    undefined
+    <pubDate>Thu, 27 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</guid>
+    <title>Come diventare un Programmatore? Consigli su come diventare un vero Developer!</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</link>
+    undefined
+    <pubDate>Tue, 25 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vita-da-sviluppatore-software---il-nuovo-format</guid>
+    <title>Vita da Sviluppatore Software - Il nuovo format</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vita-da-sviluppatore-software---il-nuovo-format</link>
+    undefined
+    <pubDate>Sun, 23 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/grazie-per-i-feedback</guid>
+    <title>Grazie per i feedback</title>
+    <link>http://localhost:3000/blog/DevelopersLife/grazie-per-i-feedback</link>
+    undefined
+    <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>null</category>
+  </item>
+
+    </channel>
+  </rss>
