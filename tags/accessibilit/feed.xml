@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>http://localhost:3000/blog</link>
+      <link>https://developerslife.github.io//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Sun, 09 May 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="http://localhost:3000/tags/accessibilit/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.github.io//tags/accessibilit/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</guid>
     <title>Accessibilità, ne parliamo con i ragazzi degli Accessibility Days
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</link>
     undefined
     <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

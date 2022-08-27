@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>http://localhost:3000/blog</link>
+      <link>https://developerslife.github.io//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 01 Dec 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="http://localhost:3000/tags/diventaresviluppatore/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.github.io//tags/diventaresviluppatore/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</guid>
     <title>Developer: perché non è il lavoro giusto (e perché si). Domande e risposte sul lavoro dei developer
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</link>
     undefined
     <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
