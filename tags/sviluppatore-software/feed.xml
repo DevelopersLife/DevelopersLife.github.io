@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 21 Apr 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/sviluppatore-software/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/sviluppatore-software/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</guid>
     <title>Sviluppatori e approcci a Microservizi VS Monoliti (ed un pò di filosofia dello sviluppo software)
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</link>
     undefined
     <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</guid>
     <title>Soft Skill per Sviluppatori. Come diventare un programmatore migliore?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</link>
     undefined
     <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</guid>
     <title>Sviluppatore Software: perché sviluppare software è un lavoro semplice ma non facile!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</link>
     undefined
     <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -44,10 +44,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</guid>
     <title>Buone Abitudini per Sviluppatori Software
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</link>
     undefined
     <pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

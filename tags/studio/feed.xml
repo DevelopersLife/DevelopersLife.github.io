@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 07 Jul 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/studio/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/studio/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/come-sceglire-luniversita-consigli-per-aspiranti-sviluppatori-e-non-solo</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/come-sceglire-luniversita-consigli-per-aspiranti-sviluppatori-e-non-solo</guid>
     <title>Come sceglire l&#39;università? Consigli per aspiranti Sviluppatori e non solo!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/come-sceglire-luniversita-consigli-per-aspiranti-sviluppatori-e-non-solo</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/come-sceglire-luniversita-consigli-per-aspiranti-sviluppatori-e-non-solo</link>
     undefined
     <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</guid>
     <title>Come scegliere la scuola superiore? Consigli per futuri Developer e non solo!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</link>
     undefined
     <pubDate>Thu, 01 Jul 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</guid>
     <title>Certificazioni per Developer! Consigli e pareri
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</link>
     undefined
     <pubDate>Tue, 22 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

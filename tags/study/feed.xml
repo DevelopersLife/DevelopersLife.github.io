@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Fri, 11 Dec 2020 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/study/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/study/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</guid>
     <title>Quali aziende ti permettono di crescere come Developer?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</link>
     undefined
     <pubDate>Fri, 11 Dec 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

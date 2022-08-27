@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 10 Mar 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/parlare-in-pubblico/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/parlare-in-pubblico/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</guid>
     <title>Soft Skill: Parlare in pubblico e Sviluppatori Software
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</link>
     undefined
     <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

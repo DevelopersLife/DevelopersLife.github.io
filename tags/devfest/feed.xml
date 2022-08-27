@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Mon, 13 Dec 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/devfest/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/devfest/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</guid>
     <title>VLOG: La prima conferenza dopo 2 anni! XMAS DevFest Torino
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</link>
     undefined
     <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</guid>
     <title>Repost: DevFest Pescara 2019 il VLOG!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</link>
     undefined
     <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</guid>
     <title>DevFest Italia 2020! La conferenza online organizzata dai GDG Italiani!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</link>
     undefined
     <pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Mon, 14 Jun 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/developer-in-inghilterra/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/developer-in-inghilterra/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/lavorare-allestero-come-developer-4-chiacchiere-insieme-a-leonardo</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/lavorare-allestero-come-developer-4-chiacchiere-insieme-a-leonardo</guid>
     <title>Lavorare all&#39;estero come Developer, 4 chiacchiere insieme a Leonardo!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/lavorare-allestero-come-developer-4-chiacchiere-insieme-a-leonardo</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/lavorare-allestero-come-developer-4-chiacchiere-insieme-a-leonardo</link>
     undefined
     <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
