@@ -15,7 +15,7 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-Ciao,
-Giovedì 18 sarò ospite dei ragazzi di Crafted Software per parlare di Firebase, Typescript e Geolocalizzazione! Trovi tutte le informazioni qui: https://www.craftedsoftware.org/realtime-geo-tracking-typescript-firebase-mich-murabito-developers-life/
-
+Ciao,  
+Giovedì 18 sarò ospite dei ragazzi di Crafted Software per parlare di Firebase, Typescript e Geolocalizzazione! Trovi tutte le informazioni qui: https://www.craftedsoftware.org/realtime-geo-tracking-typescript-firebase-mich-murabito-developers-life/  
+  
 Mentre i ragazzi di Pausa Caffè hanno pubblicato il podcast con la chiacchierata che abbiamo fatto qualche settimana fa, se la vuoi ascoltare la trovi qui: http://shorturl.at/bzGJY

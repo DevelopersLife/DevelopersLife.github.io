@@ -15,6 +15,6 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-In questa live parliamo di Machine Learning e di cosa effettivamente sia, cosa studiare e come studiare per diventare un professionista nel settore e molto altro! :)
-
+In questa live parliamo di Machine Learning e di cosa effettivamente sia, cosa studiare e come studiare per diventare un professionista nel settore e molto altro! :)  
+  
 Qui il materiale: https://drive.google.com/drive/folders/1_YB5aOJY_ChvzDrVmqn6nFg8rcCWxls2?usp=sharing

@@ -43,10 +43,11 @@ export async function getStaticProps({ params }) {
 }
 
 export default function Channel({ posts, channel }) {
-  const title = `Gli ultimi video di ${channel}`
+  const title = `Tutti i video di ${channel}`;
+  const description = `Tutti i video del canale ${channel}`;
   return (
     <>
-      <TagSEO title={`Channel Video - ${channel}`} description={`Channel Video - ${channel}`} />
+      <TagSEO title={title} description={description} />
       <ListLayout posts={posts} title={title} />
     </>
   )

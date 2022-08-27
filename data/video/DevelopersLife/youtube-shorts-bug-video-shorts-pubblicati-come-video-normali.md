@@ -17,16 +17,16 @@ tags:
 - YouTubeShorts
 - Bug
 ---
-In questo video un piccolo bug che ho riscontrato con YouTube Shorts!
-Praticamente se pubblicate video di 60 secondi (registrati con l'app di YouTube) tramite la funzione per i video brevi questi vengono visualizzati come video normali!
-
-#YouTube #YouTubeShorts #Bug
-
-Il canale dove ho caricato i due shorts di test: https://www.youtube.com/c/MichMurabito/videos
-
-00:00 Intro
-00:43 Come ho scoperto il BUG?
-02:10 Cosa provoca questo BUG?
-02:57 Come ho riprodotto il bug (tutto il procedimento)
-08:40 Come vengono visti gli shorts sugli altri profili?
+In questo video un piccolo bug che ho riscontrato con YouTube Shorts!  
+Praticamente se pubblicate video di 60 secondi (registrati con l'app di YouTube) tramite la funzione per i video brevi questi vengono visualizzati come video normali!  
+  
+#YouTube #YouTubeShorts #Bug  
+  
+Il canale dove ho caricato i due shorts di test: https://www.youtube.com/c/MichMurabito/videos  
+  
+00:00 Intro  
+00:43 Come ho scoperto il BUG?  
+02:10 Cosa provoca questo BUG?  
+02:57 Come ho riprodotto il bug (tutto il procedimento)  
+08:40 Come vengono visti gli shorts sugli altri profili?  
 09:10 Ogni quando succede? Conclusioni

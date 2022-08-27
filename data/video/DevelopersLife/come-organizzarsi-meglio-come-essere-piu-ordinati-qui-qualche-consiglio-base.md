@@ -17,13 +17,13 @@ tags:
 - SoftSkill
 - Organizzazione
 ---
-In questo video vediamo un pò di tecniche che uso quotidianamente per organizzarmi meglio (e in maniera più ordinata). Semplicissimi consigli applicabili con pochissimo sforzo. E tu hai qualche suggerimento su come gestire e auto-organizzarsi meglio le attività?
-
-#DevelopersLife #SoftSkill #Organizzazione 
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video vediamo un pò di tecniche che uso quotidianamente per organizzarmi meglio (e in maniera più ordinata). Semplicissimi consigli applicabili con pochissimo sforzo. E tu hai qualche suggerimento su come gestire e auto-organizzarsi meglio le attività?  
+  
+#DevelopersLife #SoftSkill #Organizzazione   
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

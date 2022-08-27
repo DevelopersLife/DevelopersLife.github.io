@@ -15,11 +15,11 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-In questa live insieme a Lorenzo, parliamo di cosa significa essere sviluppatori oggi rispetto a ieri e come sopravvivere all'enorme quantità di informazioni/gruppi e meetup che ci circondano costantemente.
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questa live insieme a Lorenzo, parliamo di cosa significa essere sviluppatori oggi rispetto a ieri e come sopravvivere all'enorme quantità di informazioni/gruppi e meetup che ci circondano costantemente.  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

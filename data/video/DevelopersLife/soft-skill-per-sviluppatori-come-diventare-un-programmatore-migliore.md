@@ -17,11 +17,11 @@ tags:
 - soft skill
 - sviluppatore software
 ---
-Ne parliamo spesso, ma quali Soft Skill per Sviluppatori rendono un programmatore migliore? Spesso si abusa di questo termine, però le soft skill sono una cosa importante, da programmatore posso dire che le competenze trasversali sono utili in ogni situazione, quindi sia che siate già un programmatore sia se la carriera da sviluppatori può fare al caso vostro qui trovate qualche spunto utile.
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Ne parliamo spesso, ma quali Soft Skill per Sviluppatori rendono un programmatore migliore? Spesso si abusa di questo termine, però le soft skill sono una cosa importante, da programmatore posso dire che le competenze trasversali sono utili in ogni situazione, quindi sia che siate già un programmatore sia se la carriera da sviluppatori può fare al caso vostro qui trovate qualche spunto utile.  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

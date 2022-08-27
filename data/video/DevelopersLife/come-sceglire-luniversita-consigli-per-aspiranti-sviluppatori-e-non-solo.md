@@ -17,6 +17,6 @@ tags:
 - Studio
 - Universit
 ---
-In questo video vediamo quali fattori valutare per scegliere l'università giusta, ovviamente solo alcuni consigli su come valutare effettivamente i corsi di laurea ed eventualmente come scegliere una specialistica/magistrale. Parliamo di sviluppatori ma non solo (infatti le considerazioni valgono anche per altri percorsi).
-
+In questo video vediamo quali fattori valutare per scegliere l'università giusta, ovviamente solo alcuni consigli su come valutare effettivamente i corsi di laurea ed eventualmente come scegliere una specialistica/magistrale. Parliamo di sviluppatori ma non solo (infatti le considerazioni valgono anche per altri percorsi).  
+  
 #DevelopersLife #Studio #Università

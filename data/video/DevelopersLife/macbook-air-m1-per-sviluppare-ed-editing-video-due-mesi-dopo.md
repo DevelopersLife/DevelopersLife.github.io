@@ -17,9 +17,9 @@ tags:
 - macbook air 2020
 - macbook pro 2020
 ---
-Come sapete ho comprato un Macbook Air M1, in questo video vi racconto un pò come va dopo 2 mesi di utilizzo come Developer e per Editing Video.
-
-Vale la pena comprare un Macbook M1? Se tornassi indietro lo riprenderei?
-Qui cosa ne penso.
-
+Come sapete ho comprato un Macbook Air M1, in questo video vi racconto un pò come va dopo 2 mesi di utilizzo come Developer e per Editing Video.  
+  
+Vale la pena comprare un Macbook M1? Se tornassi indietro lo riprenderei?  
+Qui cosa ne penso.  
+  
 Qui la lista per sapere se i software sono compatibili: https://isapplesiliconready.com/it

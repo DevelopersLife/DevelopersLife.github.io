@@ -17,13 +17,13 @@ tags:
 - manager
 - sviluppatore
 ---
-Spesso chiedete cosa comporta essere  Manager rispetto Sviluppatore Software, quali sono i modi migliori per avanzare da programmatore/sviluppatore a manager o ruoli più gestionali.
-
-Qui cerchiamo di rispondere a qualche possibile domande sulla carriera (avanzata da developer).
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Spesso chiedete cosa comporta essere  Manager rispetto Sviluppatore Software, quali sono i modi migliori per avanzare da programmatore/sviluppatore a manager o ruoli più gestionali.  
+  
+Qui cerchiamo di rispondere a qualche possibile domande sulla carriera (avanzata da developer).  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

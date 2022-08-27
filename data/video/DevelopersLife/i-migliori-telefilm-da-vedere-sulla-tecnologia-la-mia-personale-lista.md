@@ -17,11 +17,11 @@ tags:
 - migliori telefilm
 - migliori tecnologia
 ---
-Inauguriamo questo nuovo appuntamento partendo dai 5 migliori telefilm basati sulla tecnologia, titoli che secondo me un programmatore dovrebbe assolutamente vedere. Sviluppatori, hacker, robot e ambientazioni odierne o futuristiche, in questa mia personale lista dei migliori telefilm in cui la tecnologia è un fattore predominante.
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Inauguriamo questo nuovo appuntamento partendo dai 5 migliori telefilm basati sulla tecnologia, titoli che secondo me un programmatore dovrebbe assolutamente vedere. Sviluppatori, hacker, robot e ambientazioni odierne o futuristiche, in questa mia personale lista dei migliori telefilm in cui la tecnologia è un fattore predominante.  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

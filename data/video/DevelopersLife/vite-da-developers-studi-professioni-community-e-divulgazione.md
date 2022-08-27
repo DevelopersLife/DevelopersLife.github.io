@@ -15,5 +15,5 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-In questa live insieme ai ragazzi di DotnetPodcast per fare quattro chiacchiere.
+In questa live insieme ai ragazzi di DotnetPodcast per fare quattro chiacchiere.  
 Parliamo di professione, di formazione, community e divulgazione.

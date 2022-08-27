@@ -17,13 +17,13 @@ tags:
 - IDE
 - Developer
 ---
-In questo video parliamo di editor di codice e IDE, quale alternative esistono oggi per iniziare (e continuare) a scrivere codice? Perchè è importante iniziare a scrivere codice utilizzando un IDE?
-
-#Coding #IDE #Developer
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video parliamo di editor di codice e IDE, quale alternative esistono oggi per iniziare (e continuare) a scrivere codice? Perchè è importante iniziare a scrivere codice utilizzando un IDE?  
+  
+#Coding #IDE #Developer  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

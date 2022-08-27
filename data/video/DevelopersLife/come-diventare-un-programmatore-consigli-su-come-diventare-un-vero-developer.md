@@ -17,12 +17,12 @@ tags:
 - developerLife
 - sviluppatore
 ---
-Iniziare a lavorare è sempre complicato, anche la professione dello sviluppatore non è da meno!
-
-In questo video vediamo come diventare uno sviluppatore. Cosa studiare? L'università è sufficiente per scrivere codice? Come iniziare e come aggiornarsi!
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-🔥 Pagina Facebook: https://www.facebook.com/howimetmich/
-💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Iniziare a lavorare è sempre complicato, anche la professione dello sviluppatore non è da meno!  
+  
+In questo video vediamo come diventare uno sviluppatore. Cosa studiare? L'università è sufficiente per scrivere codice? Come iniziare e come aggiornarsi!  
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+🔥 Pagina Facebook: https://www.facebook.com/howimetmich/  
+💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 💣 Profilo Twitter: https://twitter.com/michelmurabito

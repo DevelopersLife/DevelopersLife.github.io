@@ -17,13 +17,13 @@ tags:
 - path
 - carriera
 ---
-Spesso in privato mi chiedete un pò il percorso dello sviluppatore software, in questo video vediamo un pò, come oggi si inizia e dove si può arrivare.
-
-Ciao, mi trovi anche su:
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/howimetmich/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Spesso in privato mi chiedete un pò il percorso dello sviluppatore software, in questo video vediamo un pò, come oggi si inizia e dove si può arrivare.  
+  
+Ciao, mi trovi anche su:  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/howimetmich/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

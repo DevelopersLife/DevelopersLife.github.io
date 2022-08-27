@@ -17,13 +17,13 @@ tags:
 - programmatore web
 - sviluppatore web
 ---
-In questo video vediamo cos'è possibile sviluppare utilizzando tecnologie web utilizzando JavaScript, HTML e CSS e perchè fare lo Sviluppatore Web alla fine non è così tanto male.
-
-Un buon modo per capire se questo mondo può fare anche al caso tuo.
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video vediamo cos'è possibile sviluppare utilizzando tecnologie web utilizzando JavaScript, HTML e CSS e perchè fare lo Sviluppatore Web alla fine non è così tanto male.  
+  
+Un buon modo per capire se questo mondo può fare anche al caso tuo.  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

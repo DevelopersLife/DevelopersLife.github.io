@@ -17,14 +17,14 @@ tags:
 - programming
 - languages
 ---
-C'è sempre una lotta di pareri per decidere con quale linguaggio di programmazione iniziare a programmare. Alcuni consigliano di partire dai linguaggi storici, altri da quelli moderni, alcuni consigliano di focalizzarsi sui paradigmi, altri di provare quello che capita.
-
-In questo video il mio parere su quale linguaggio di programmazione scegliere per iniziare, come sceglierlo e alcuni consigli per sfatare alcuni falsi miti.
-
-E tu? con che linguaggio hai iniziato? C? Java? PHP? JavaScript? Qualche diavoleria sconosciuta ai più? Scrivilo nei commenti!
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-🔥 Pagina Facebook: https://www.facebook.com/howimetmich/
-💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+C'è sempre una lotta di pareri per decidere con quale linguaggio di programmazione iniziare a programmare. Alcuni consigliano di partire dai linguaggi storici, altri da quelli moderni, alcuni consigliano di focalizzarsi sui paradigmi, altri di provare quello che capita.  
+  
+In questo video il mio parere su quale linguaggio di programmazione scegliere per iniziare, come sceglierlo e alcuni consigli per sfatare alcuni falsi miti.  
+  
+E tu? con che linguaggio hai iniziato? C? Java? PHP? JavaScript? Qualche diavoleria sconosciuta ai più? Scrivilo nei commenti!  
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+🔥 Pagina Facebook: https://www.facebook.com/howimetmich/  
+💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 💣 Profilo Twitter: https://twitter.com/michelmurabito

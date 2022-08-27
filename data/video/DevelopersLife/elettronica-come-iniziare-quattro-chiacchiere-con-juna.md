@@ -17,11 +17,11 @@ tags:
 - sviluppatore
 - programmatore
 ---
-In questa chiacchierata con Juna vediamo un pò di consigli e un pò di tool utili a chi vuole avvicinarsi al mondo dell'elettronica. Una chiacchierata informale per parlare di elettronica e passioni! :)
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questa chiacchierata con Juna vediamo un pò di consigli e un pò di tool utili a chi vuole avvicinarsi al mondo dell'elettronica. Una chiacchierata informale per parlare di elettronica e passioni! :)  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

@@ -17,6 +17,6 @@ tags:
 - programmatore
 - developer
 ---
-Visto ne abbiamo parlato molto, in questo video parliamo di età per sviluppare, soprattutto per gli sviluppatori che oggi hanno 30 anni (e che tra 20 o 30 anni avranno 50-60 anni). Si può fare lo sviluppatore? Cosa ne penso?
-
+Visto ne abbiamo parlato molto, in questo video parliamo di età per sviluppare, soprattutto per gli sviluppatori che oggi hanno 30 anni (e che tra 20 o 30 anni avranno 50-60 anni). Si può fare lo sviluppatore? Cosa ne penso?  
+  
 Ovviamente questo, come sempre, è il mio punto di vista sulla questione.

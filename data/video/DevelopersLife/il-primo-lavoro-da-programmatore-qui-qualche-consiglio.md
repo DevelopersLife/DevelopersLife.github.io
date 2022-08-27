@@ -17,6 +17,6 @@ tags:
 - Il primo lavoro da programmatore qui qualche consiglio!
 - colloquio di lavoro programmatore
 ---
-Molti di voi mi chiedono informazioni sul primo lavoro da programmatore, qui vorrei condividere con voi qualche consiglio utile.
-
+Molti di voi mi chiedono informazioni sul primo lavoro da programmatore, qui vorrei condividere con voi qualche consiglio utile.  
+  
 Se vuoi lavorare come Programmatore (Sistemista, Frontend/Backend Developer, Sviluppatore Software, Developer, DevOps etc) anche se non esplicitamente detto questi consigli sono ugualmente applicabili! :)

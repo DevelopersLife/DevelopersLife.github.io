@@ -15,12 +15,12 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-In questo video, vediamo insieme se e come valutare l'ingresso in una startup come primo lavoro da sviluppatore.
-
-Fare il Developer è complesso, ed in questo video vediamo i pro e i contro di iniziare la carriera in una startup!
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-🔥 Pagina Facebook: https://www.facebook.com/howimetmich/
-💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video, vediamo insieme se e come valutare l'ingresso in una startup come primo lavoro da sviluppatore.  
+  
+Fare il Developer è complesso, ed in questo video vediamo i pro e i contro di iniziare la carriera in una startup!  
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+🔥 Pagina Facebook: https://www.facebook.com/howimetmich/  
+💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 💣 Profilo Twitter: https://twitter.com/michelmurabito

@@ -17,12 +17,12 @@ tags:
 - curriculumvitae
 - developer
 ---
-Scrivere il curriculum è complicato. All'inizio le scelte sono su qualche formato utilizzare, usare il formato europeo? Un formato custom?
-Poi le domande sono sicuramente metto tutte le esperienze? Ne seleziono solo alcune? Se ho poca esperienza?
-In questo video alcuni consigli su come scrivere un curriculum veramente efficace
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-🔥 Pagina Facebook: https://www.facebook.com/howimetmich/
-💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Scrivere il curriculum è complicato. All'inizio le scelte sono su qualche formato utilizzare, usare il formato europeo? Un formato custom?  
+Poi le domande sono sicuramente metto tutte le esperienze? Ne seleziono solo alcune? Se ho poca esperienza?  
+In questo video alcuni consigli su come scrivere un curriculum veramente efficace  
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+🔥 Pagina Facebook: https://www.facebook.com/howimetmich/  
+💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 💣 Profilo Twitter: https://twitter.com/michelmurabito

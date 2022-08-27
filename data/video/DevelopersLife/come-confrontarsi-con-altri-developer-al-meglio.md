@@ -17,6 +17,6 @@ tags:
 - Confrontarsi
 - Consigli
 ---
-In questo video qualche consiglio per confrontarsi al meglio, consigli utili per developer ma applicabili anche in altri settori e ovviamente in altri contesti!
-
+In questo video qualche consiglio per confrontarsi al meglio, consigli utili per developer ma applicabili anche in altri settori e ovviamente in altri contesti!  
+  
 #Developer #Confrontarsi #Consigli
