@@ -66,7 +66,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                   <div className="flex-shrink-0">
                     <Image
                       className="h-48 w-full object-cover"
-                      src={`http://img.youtube.com/vi/${frontmatter.id}/mqdefault.jpg`}
+                      src={`https://img.youtube.com/vi/${frontmatter.id}/mqdefault.jpg`}
                       alt={frontmatter.title}
                       width="320px"
                       height="180px"

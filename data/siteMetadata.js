@@ -5,7 +5,7 @@ const siteMetadata = {
   description: 'DevelopersLife la community degli sviluppatori software',
   language: 'it-eu',
   theme: 'system', // system, dark or light
-  siteUrl: 'http://localhost:3000',
+  siteUrl: 'https://developerslife.github.io/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: '/static/images/developerslife_logo.png',
   image: '/static/images/avatar.png',
