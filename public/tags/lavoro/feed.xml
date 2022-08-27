@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>http://localhost:3000/blog</link>
+      <link>https://developerslife.github.io//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
       <language>it-eu</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Sun, 07 Aug 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="http://localhost:3000/tags/lavoro/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.github.io//tags/lavoro/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</guid>
     <title>Come Developer è meglio specializzarsi o conoscere tutto?
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</link>
     undefined
     <pubDate>Sun, 07 Aug 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</guid>
     <title>Diventare un Developer (plus la mia storia e quella di DevelopersLife) - Il Primo Meetup
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</link>
     undefined
     <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</guid>
     <title>Il lavoro dello Sviluppatore Software: Domande e Risposte Parte 2
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</link>
     undefined
     <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -44,10 +44,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</guid>
     <title>Primo giorno di lavoro, qualche consiglio utile!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</link>
     undefined
     <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -55,10 +55,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</guid>
     <title>Tasse da lavoro dipendente: spiegazione facile su come si calcolano!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</link>
     undefined
     <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -66,10 +66,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</guid>
     <title>Annunci di lavoro per Programmatori? Qui qualche consiglio
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</link>
     undefined
     <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -77,10 +77,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</guid>
     <title>Sviluppatori Software: opportunità e la capacità di saltare (di tanto in tanto)
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</link>
     undefined
     <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -88,10 +88,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</guid>
     <title>Gli algoritmi ci ruberanno il lavoro? Considerazioni da Developer
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</link>
     undefined
     <pubDate>Wed, 02 Dec 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -99,10 +99,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</guid>
     <title>CCNL Commercio o Metalmeccanico per Programmatori/Sviluppatori/Developer?!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</link>
     undefined
     <pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -110,10 +110,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</guid>
     <title>Come non svendere il tuo lavoro!
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</link>
     undefined
     <pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -121,10 +121,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</guid>
     <title>Cambiare lavoro: il coraggio della scelta
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</link>
     undefined
     <pubDate>Wed, 07 Oct 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -132,10 +132,10 @@
   </item>
 
   <item>
-    <guid>http://localhost:3000/blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</guid>
+    <guid>https://developerslife.github.io//blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</guid>
     <title>L&#39;importanza del lavoro degli Sviluppatori
 </title>
-    <link>http://localhost:3000/blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</link>
+    <link>https://developerslife.github.io//blog/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</link>
     undefined
     <pubDate>Mon, 28 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

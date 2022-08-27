@@ -9,6 +9,8 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
   const { id, link, title, description_short, date, tags, slug, description, channel } = frontMatter
   const onlyDate = date.split("T")[0];
 
+  const parsedTags = tags.filter(t => typeof t === "string")
+
   const seoObject = {
     authorDetails: [
       {name: channel},
@@ -70,7 +72,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
               <div className="mt-2 border-t border-gray-200 pt-2">
                 <h3 className="text-sm font-medium text-gray-900">Tags: </h3>
                 <div className="prose prose-sm mt-2 text-gray-500">
-                  {tags.map((t) => {
+                  {parsedTags.map((t) => {
                     return <span key={t}>
                       <Link href={`/tags/${t}`}>
                         {t}
