@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Tue, 31 Aug 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/anniversario/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</guid>
+    <title>Speciale: Un anno di YouTube! Da 0 a 1600+ iscritti!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</link>
+    undefined
+    <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>YouTube</category><category>Anniversario</category><category>1000Iscritti</category>
+  </item>
+
+    </channel>
+  </rss>

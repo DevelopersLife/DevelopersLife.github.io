@@ -1,0 +1,69 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sat, 30 Jul 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/youtube/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/siamo-tornati</guid>
+    <title>Siamo Tornati! :)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/siamo-tornati</link>
+    undefined
+    <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>DevelopersLife</category><category>Developer</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</guid>
+    <title>Speciale: Un anno di YouTube! Da 0 a 1600+ iscritti!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</link>
+    undefined
+    <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>YouTube</category><category>Anniversario</category><category>1000Iscritti</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</guid>
+    <title>YouTube Shorts BUG (Video Shorts pubblicati come video normali)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</link>
+    undefined
+    <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>YouTube</category><category>YouTubeShorts</category><category>Bug</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</guid>
+    <title>Alcuni canali YouTube che DOVRESTI seguire! Per Developer e aspiranti
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</link>
+    undefined
+    <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>community</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/grazie-per-i-feedback</guid>
+    <title>Grazie per i feedback
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/grazie-per-i-feedback</link>
+    undefined
+    <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>consigli</category><category>YouTube</category><category>feedback</category>
+  </item>
+
+    </channel>
+  </rss>

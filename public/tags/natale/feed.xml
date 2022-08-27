@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Thu, 24 Dec 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/natale/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buon-natale-a-reti-unificate</guid>
+    <title>Buon Natale a Reti Unificate! 🤶
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buon-natale-a-reti-unificate</link>
+    undefined
+    <pubDate>Thu, 24 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>buonnatale</category><category>natale</category><category>auguri</category>
+  </item>
+
+    </channel>
+  </rss>

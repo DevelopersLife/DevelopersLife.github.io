@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Wed, 27 Jan 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/south-working-smart-working-programmatori/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/south-working-programmatori-in-smart-working-il-futuro-la-mia-opinione</guid>
+    <title>South Working: Programmatori in Smart Working il futuro, la mia opinione!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/south-working-programmatori-in-smart-working-il-futuro-la-mia-opinione</link>
+    undefined
+    <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>south working smart working programmatori</category><category>south working</category><category>smart working</category>
+  </item>
+
+    </channel>
+  </rss>

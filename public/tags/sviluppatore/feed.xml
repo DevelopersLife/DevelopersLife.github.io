@@ -1,0 +1,278 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Mon, 12 Jul 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/sviluppatore/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</guid>
+    <title>Come rimanere concentrati? Qui qualche consiglio!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</link>
+    undefined
+    <pubDate>Mon, 12 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>DevelopersLife</category><category>Sviluppatore</category><category>Concentrazione</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</guid>
+    <title>News su DevelopersLife: Il Canale dove parliamo della Vita e del Lavoro dello Sviluppatore Software
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</link>
+    undefined
+    <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developerslife</category><category>sviluppatore</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
+    <title>Elettronica: come iniziare? Quattro chiacchiere con Juna
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
+    undefined
+    <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>elettronica</category><category>sviluppatore</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</guid>
+    <title>4 Chiacchiere e News sul Canale!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</link>
+    undefined
+    <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</guid>
+    <title>Perchè (da Sviluppatore) imparare Docker? E perchè farlo proprio adesso? - #D8TechDays
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</link>
+    undefined
+    <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>developer</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</guid>
+    <title>Stackoverflow, cos&#39;è e perche da Sviluppatori dovreste usarlo?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</link>
+    undefined
+    <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</guid>
+    <title>Sta arrivando la D8 Tech Days! Una serie di chiacchierate per Sviluppatori e Apprendisti Developer!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</link>
+    undefined
+    <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</guid>
+    <title>Sviluppatori, considerazioni sull&#39;età per scrivere codice
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</link>
+    undefined
+    <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>programmatore</category><category>developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</guid>
+    <title>Tema Light vs Dark per IDE e Programmi, quale scegliere e perchè?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</link>
+    undefined
+    <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>programmatore</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</guid>
+    <title>Cos&#39;è GIT? Cosa sono Github, Gitlab e Bitbucket?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</link>
+    undefined
+    <pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>programmatore</category><category>sviluppatore</category><category>developer</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</guid>
+    <title>Sviluppatori e approcci a Microservizi VS Monoliti (ed un pò di filosofia dello sviluppo software)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</link>
+    undefined
+    <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore software</category><category>sviluppatore</category><category>microservices</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</guid>
+    <title>Vivere a Milano? La mia esperienza! (Per Sviluppatori e non solo!)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>developer</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-a-milano-un-po-di-suggerimenti-su-come-trovare-lavoro-in-citta</guid>
+    <title>Sviluppatore Software a Milano? Un pò di suggerimenti su come trovare lavoro in città!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-a-milano-un-po-di-suggerimenti-su-come-trovare-lavoro-in-citta</link>
+    undefined
+    <pubDate>Mon, 29 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>lavoro sviluppatore</category><category>lavoro sviluppatore milano</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</guid>
+    <title>Sviluppatori, imparate a fare le giuste domande nel modo giusto!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</link>
+    undefined
+    <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore</category><category>developer</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</guid>
+    <title>Equilibrio tra Lavoro e Vita. Panoramica per sviluppatori e non sul work-life balance
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</link>
+    undefined
+    <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>worklife balance</category><category>sviluppatore</category><category>programmatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/manager-vs-sviluppatore-software-avanzamenti-di-carriera-risposte-qui</guid>
+    <title>Manager vs Sviluppatore Software? Avanzamenti di carriera? Risposte qui!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/manager-vs-sviluppatore-software-avanzamenti-di-carriera-risposte-qui</link>
+    undefined
+    <pubDate>Fri, 22 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Manager Sviluppatore</category><category>manager</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori</guid>
+    <title>Suggerimenti dal FUTURO per Sviluppatori! ⏰⬅️🚗💨⚡️
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori</link>
+    undefined
+    <pubDate>Thu, 07 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>suggerimenti</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</guid>
+    <title>CCNL Commercio o Metalmeccanico per Programmatori/Sviluppatori/Developer?!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</link>
+    undefined
+    <pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>contratto</category><category>lavoro</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</guid>
+    <title>Posso fare il Developer? Come capire se sviluppare software è la mia strada?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</link>
+    undefined
+    <pubDate>Mon, 23 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>work</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</guid>
+    <title>Quando diventi senior? Qui la risposta!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quando-diventi-senior-qui-la-risposta</link>
+    undefined
+    <pubDate>Wed, 11 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>work</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</guid>
+    <title>Come non svendere il tuo lavoro!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-non-svendere-il-tuo-lavoro</link>
+    undefined
+    <pubDate>Mon, 02 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>lavoro</category><category>developer</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quanto-guadagna-uno-sviluppatore-quali-fattori-influiscono-sullo-stipendio-dei-developer</guid>
+    <title>Quanto guadagna uno sviluppatore? Quali fattori influiscono sullo stipendio dei developer?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quanto-guadagna-uno-sviluppatore-quali-fattori-influiscono-sullo-stipendio-dei-developer</link>
+    undefined
+    <pubDate>Tue, 01 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>sviluppatore</category><category>stipendio</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</guid>
+    <title>Come diventare un Programmatore? Consigli su come diventare un vero Developer!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</link>
+    undefined
+    <pubDate>Tue, 25 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>developerLife</category><category>sviluppatore</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vita-da-sviluppatore-software-il-nuovo-format</guid>
+    <title>Vita da Sviluppatore Software - Il nuovo format
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vita-da-sviluppatore-software-il-nuovo-format</link>
+    undefined
+    <pubDate>Sun, 23 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Sviluppatore</category><category>Developer</category><category>SoftwareDeveloper</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Thu, 04 Nov 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/vlog/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</guid>
+    <title>Repost: DevFest Pescara 2019 il VLOG!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/repost-devfest-pescara-2019-il-vlog</link>
+    undefined
+    <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>conference</category><category>vlog</category><category>devfest</category>
+  </item>
+
+    </channel>
+  </rss>

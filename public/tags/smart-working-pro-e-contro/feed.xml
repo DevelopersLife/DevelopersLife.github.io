@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Fri, 15 Jan 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/smart-working-pro-e-contro/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/programmatori-e-il-futuro-dello-smart-working-in-italia-cosa-ne-penso</guid>
+    <title>Programmatori e il futuro dello smart working in italia, cosa ne penso?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/programmatori-e-il-futuro-dello-smart-working-in-italia-cosa-ne-penso</link>
+    undefined
+    <pubDate>Fri, 15 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>smart working</category><category>smart working pro e contro</category><category>smart working come iniziare</category>
+  </item>
+
+    </channel>
+  </rss>
