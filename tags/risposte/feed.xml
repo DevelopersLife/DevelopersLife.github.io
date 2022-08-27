@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Mon, 14 Feb 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/risposte/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</guid>
+    <title>Il lavoro dello Sviluppatore Software: Domande e Risposte Parte 2
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</link>
+    undefined
+    <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Developer</category><category>Lavoro</category><category>Risposte</category>
+  </item>
+
+    </channel>
+  </rss>

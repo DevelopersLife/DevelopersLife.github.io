@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Mon, 10 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/qea/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</guid>
+    <title>15 Domande e Risposte sul lavoro dei Developer! Imparare, Lavorare, Networking ed Evolvere!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</link>
+    undefined
+    <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Developer</category><category>QeA</category><category>Consigli</category>
+  </item>
+
+    </channel>
+  </rss>

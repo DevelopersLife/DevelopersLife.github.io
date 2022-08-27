@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Wed, 28 Oct 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/annunci/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-valutare-gli-annunci-di-lavoro</guid>
+    <title>Come valutare gli annunci di lavoro?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-valutare-gli-annunci-di-lavoro</link>
+    undefined
+    <pubDate>Wed, 28 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>work</category><category>developer</category><category>annunci</category>
+  </item>
+
+    </channel>
+  </rss>

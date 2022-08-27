@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3000/about</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/1000iscritti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/5000-euro-mese-sviluppatore-programmatore-software</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/accessibilit</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/age</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/algoritmi</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/angular</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/angular-live-coding</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/anniversario</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/annonuovo</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/annunci</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/annuncio</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/ar</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/ascoltare-musica-scrivendo-codice</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/augmented-reality</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/auguri</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/automazione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/azienda</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/backend</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/bug</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/buoneabitudini</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/buonipropositi</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/buonnatale</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/bustapaga</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/carriera</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/carriera-freelancer-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/certificazioni</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/chiedere-aumento</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/chiedere-aumento-stipendio</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/christmas</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/cloud-architect</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/codice</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/coding</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/colloquio</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/colloquio-di-lavoro-programmatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/community</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/company</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/comunicazione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/concentrazione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/conference</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/confrontarsi</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/consigli</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/contratto</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/css</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/curriculum</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/curriculum-programmatori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/curriculumvitae</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/degree</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/designpattern</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/developer</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/developer-consigli</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/developer-in-inghilterra</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/developerlife</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/developerslife</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/devfest</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/disabilit</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/diventare-uno-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/diventaresviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/elettronica</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/errori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/evoluzione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/feedback</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/film-belli</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/film-da-vedere</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/film-netflix</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/flutter</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/framework</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/freelance</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/freelancer</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/frontend-developer</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/fullstack</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/fullstack-developer</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/funny</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/gdg</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/gestioneerrori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/githubcopilot</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/growth</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/guadagnare-5000-euro-al-mese</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/guadagnare-online</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/help</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/html</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/ide</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/il-primo-lavoro-da-programmatore-qui-qualche-consiglio</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/imparare-a-programmare</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/improvement</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/inclusione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/informatica</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/ingegneria</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/ingegneria-informatica</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/insegnamenti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/interview</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/investimenti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/javascript</loc>
+  </url>
+
+  <url>
+    <loc
+      >http://localhost:3000/tags/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</loc
+    >
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/languages</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/laurea</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/laurea-programmare-matematica</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavorare-allestero</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavori-online</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavori-sviluppatore-online</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavoro</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavoro-programmatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavoro-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavoro-sviluppatore-milano</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lavoronuovo</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lego-bonsai</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lego-bonsai-tree</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/lego-bonsai-tree-speed-build</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/life</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/linguaggio-programmazione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/linguaggio-programmazione-arduino</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/linguaggio-programmazione-c</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/live-coding-con-fabio-biondi</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/mac</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/macbook</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/macbook-air-2020</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/macbook-air-m1</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/macbook-pro-2020</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/macbookair</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/macos</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/manager</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/manager-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/mariokart</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/microservices</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/miglioramento</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/migliorare-come-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/migliori-tecnologia</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/migliori-telefilm</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/migliori-telefilm-tecnologia</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/milan</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/natale</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/need4nerd</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/news</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/nuovetecnologie</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/opportunità</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/organizzazione</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/parlare-in-pubblico</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/path</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/placebo</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/produttivit</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmare-da-zero</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmare-per-principianti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatore-autodidatta</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatore-informatico</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatore-software</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatore-web</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programmatori-codice</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/programming</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/pulsanti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/qea</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/requisiti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/risposte</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/salario</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/scriverecodice</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/scuolasuperiore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/shorts</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sistemioperativi</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/smart-working</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/smart-working-come-iniziare</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/smart-working-pro-e-contro</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/smartworking</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/soft-skill</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/soft-skill-programmatore-sviluppatori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/softskill</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/softskills</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/software</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/softwaredeveloper</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/solution-architect</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/south-working</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/south-working-smart-working-programmatori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/star-wars</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/stipendio</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/stipendio-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/stress</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/studio</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/study</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/suggerimenti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/suggerimenti-dal-futuro-per-sviluppatori---parte-ii-️️️</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/suggerimenti-e-consigli-dal-futuro-per-sviluppatori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/suggestion</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppare-codice</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppare-codice-musica</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatore-software</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatore-solution-cloud-architect</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatore-web</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatoresoftware</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatori</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppatori-insegnamenti-star-wars</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppo-framework</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppo-framework-sviluppatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppo-software</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/sviluppo-web</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/tasse</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/team</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/teams</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/teamwork</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/tecnologie</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/test</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/torre-di-pisa</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/torre-pendente</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/trovaretempo</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/unboxing</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/universit</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/università</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/vlog</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/vr</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/web-developer</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/web-developer-freelance</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/windows</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/work</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/worklife-balance</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/yotube-1000-iscritti-speciale-vlog-programmatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/youtube</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/youtube-1000-iscritti-speciale-vlog-programmatore</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/youtube-speciale-1000-iscritti</loc>
+  </url>
+
+  <url>
+    <loc>http://localhost:3000/tags/youtubeshorts</loc>
+  </url>
+</urlset>

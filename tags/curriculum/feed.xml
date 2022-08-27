@@ -1,0 +1,36 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Wed, 24 Feb 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/curriculum/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/curriculum-guida-pratica-per-programmatori-e-non-solo</guid>
+    <title>Curriculum, guida pratica per Programmatori (e non solo)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/curriculum-guida-pratica-per-programmatori-e-non-solo</link>
+    undefined
+    <pubDate>Wed, 24 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>curriculum programmatori</category><category>curriculum</category><category>programmatori</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-fare-un-curriculum-vitae-per-developer</guid>
+    <title>Come fare un curriculum vitae per developer!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-fare-un-curriculum-vitae-per-developer</link>
+    undefined
+    <pubDate>Tue, 08 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>curriculum</category><category>curriculumvitae</category><category>developer</category>
+  </item>
+
+    </channel>
+  </rss>
