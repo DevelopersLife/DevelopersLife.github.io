@@ -1,0 +1,58 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Wed, 21 Apr 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/sviluppatore-software/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</guid>
+    <title>Sviluppatori e approcci a Microservizi VS Monoliti (ed un pò di filosofia dello sviluppo software)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</link>
+    undefined
+    <pubDate>Wed, 21 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore software</category><category>sviluppatore</category><category>microservices</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</guid>
+    <title>Soft Skill per Sviluppatori. Come diventare un programmatore migliore?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</link>
+    undefined
+    <pubDate>Wed, 03 Feb 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Soft skill programmatore sviluppatori</category><category>soft skill</category><category>sviluppatore software</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</guid>
+    <title>Sviluppatore Software: perché sviluppare software è un lavoro semplice ma non facile!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</link>
+    undefined
+    <pubDate>Mon, 25 Jan 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>sviluppatore software</category><category>sviluppatore web</category><category>programmatore software</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</guid>
+    <title>Buone Abitudini per Sviluppatori Software
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/buone-abitudini-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Mon, 12 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>buoneabitudini</category><category>sviluppatore software</category>
+  </item>
+
+    </channel>
+  </rss>

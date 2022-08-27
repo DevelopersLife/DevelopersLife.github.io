@@ -1,0 +1,19 @@
+{
+  "/404": "pages/404.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/about": "pages/about.js",
+  "/api/buttondown": "pages/api/buttondown.js",
+  "/api/convertkit": "pages/api/convertkit.js",
+  "/api/emailoctopus": "pages/api/emailoctopus.js",
+  "/api/klaviyo": "pages/api/klaviyo.js",
+  "/api/mailchimp": "pages/api/mailchimp.js",
+  "/api/revue": "pages/api/revue.js",
+  "/channel/[channel]": "pages/channel/[channel].js",
+  "/": "pages/index.js",
+  "/tags/[tag]": "pages/tags/[tag].js",
+  "/tags": "pages/tags.js",
+  "/video/[...slug]": "pages/video/[...slug].js",
+  "/video/page/[page]": "pages/video/page/[page].js",
+  "/_error": "pages/_error.js"
+}

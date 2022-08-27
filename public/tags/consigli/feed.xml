@@ -1,0 +1,69 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sun, 06 Mar 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/consigli/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</guid>
+    <title>Diventare un Developer (plus la mia storia e quella di DevelopersLife) - Il Primo Meetup
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</link>
+    undefined
+    <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Developer</category><category>Consigli</category><category>Lavoro</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</guid>
+    <title>15 Domande e Risposte sul lavoro dei Developer! Imparare, Lavorare, Networking ed Evolvere!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</link>
+    undefined
+    <pubDate>Mon, 10 Jan 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Developer</category><category>QeA</category><category>Consigli</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</guid>
+    <title>Come confrontarsi con altri Developer al Meglio?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</link>
+    undefined
+    <pubDate>Wed, 13 Oct 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Developer</category><category>Confrontarsi</category><category>Consigli</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quale-consiglio-daresti-al-te-stesso-del-passato</guid>
+    <title>Quale consiglio daresti al te stesso del passato?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quale-consiglio-daresti-al-te-stesso-del-passato</link>
+    undefined
+    <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>suggestion</category><category>consigli</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/grazie-per-i-feedback</guid>
+    <title>Grazie per i feedback
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/grazie-per-i-feedback</link>
+    undefined
+    <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>consigli</category><category>YouTube</category><category>feedback</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Mon, 01 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/film-da-vedere/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/5-film-da-vedere-e-perche-a-me-piacciono</guid>
+    <title>5 Film da vedere e perché a me piacciono! :)
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/5-film-da-vedere-e-perche-a-me-piacciono</link>
+    undefined
+    <pubDate>Mon, 01 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>film da vedere</category><category>film netflix</category><category>film belli</category>
+  </item>
+
+    </channel>
+  </rss>

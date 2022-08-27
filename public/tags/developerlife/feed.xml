@@ -1,0 +1,36 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Thu, 27 Aug 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/developerlife/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</guid>
+    <title>3 semplici consigli su come lavorare in smart working!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</link>
+    undefined
+    <pubDate>Thu, 27 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>smartworking</category><category>developer</category><category>developerLife</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</guid>
+    <title>Come diventare un Programmatore? Consigli su come diventare un vero Developer!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</link>
+    undefined
+    <pubDate>Tue, 25 Aug 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>developerLife</category><category>sviluppatore</category>
+  </item>
+
+    </channel>
+  </rss>

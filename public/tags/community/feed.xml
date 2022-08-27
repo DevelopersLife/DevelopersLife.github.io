@@ -1,0 +1,47 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Mon, 13 Dec 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/community/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</guid>
+    <title>VLOG: La prima conferenza dopo 2 anni! XMAS DevFest Torino
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</link>
+    undefined
+    <pubDate>Mon, 13 Dec 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>DevFest</category><category>Conference</category><category>Community</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</guid>
+    <title>Alcuni canali YouTube che DOVRESTI seguire! Per Developer e aspiranti
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</link>
+    undefined
+    <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>community</category><category>youtube</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/community-cosa-sono</guid>
+    <title>Community: cosa sono?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/community-cosa-sono</link>
+    undefined
+    <pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>community</category><category>need4nerd</category><category>developer</category>
+  </item>
+
+    </channel>
+  </rss>

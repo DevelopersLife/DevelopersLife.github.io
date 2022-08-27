@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Mon, 05 Oct 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/mac/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/windows-vs-linux-vs-mac-os-quale-sistema-per-sviluppare</guid>
+    <title>Windows vs Linux vs Mac Os: Quale sistema per sviluppare?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/windows-vs-linux-vs-mac-os-quale-sistema-per-sviluppare</link>
+    undefined
+    <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>windows</category><category>mac</category><category>macos</category>
+  </item>
+
+    </channel>
+  </rss>

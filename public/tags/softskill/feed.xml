@@ -1,0 +1,69 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sun, 14 Aug 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/softskill/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/quali-sono-le-cose-da-developer-che-e-importante-conoscere-oltre-a-saper-scrivere-codice</guid>
+    <title>Quali sono le cose da Developer che è importante conoscere oltre a saper scrivere codice?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/quali-sono-le-cose-da-developer-che-e-importante-conoscere-oltre-a-saper-scrivere-codice</link>
+    undefined
+    <pubDate>Sun, 14 Aug 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>softskill</category><category>DevelopersLife</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/perche-imparare-a-comunicare-bene-suggerimenti-per-sviluppatori-software</guid>
+    <title>Perchè imparare a comunicare bene? Suggerimenti per Sviluppatori Software
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/perche-imparare-a-comunicare-bene-suggerimenti-per-sviluppatori-software</link>
+    undefined
+    <pubDate>Wed, 29 Sep 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Developer</category><category>Comunicazione</category><category>SoftSkill</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-ordinati-qui-qualche-consiglio-base</guid>
+    <title>Come organizzarsi meglio? Come essere più ordinati? Qui qualche consiglio base!
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-ordinati-qui-qualche-consiglio-base</link>
+    undefined
+    <pubDate>Wed, 14 Jul 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>DevelopersLife</category><category>SoftSkill</category><category>Organizzazione</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</guid>
+    <title>Soft Skill: Parlare in pubblico e Sviluppatori Software
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</link>
+    undefined
+    <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>soft skill</category><category>softskill</category><category>parlare in pubblico</category>
+  </item>
+
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</guid>
+    <title>Cosa sono le Soft Skill: un pò di informazioni utili
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</link>
+    undefined
+    <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>softskill</category><category>softskills</category>
+  </item>
+
+    </channel>
+  </rss>

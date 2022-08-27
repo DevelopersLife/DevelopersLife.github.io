@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>http://localhost:3000/blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Wed, 28 Apr 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="http://localhost:3000/tags/fullstack-developer/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>http://localhost:3000/blog/DevelopersLife/frontend-developer-quali-linguaggi-framework-e-tool-bisogna-conoscere</guid>
+    <title>Frontend Developer: quali Linguaggi, Framework e Tool bisogna conoscere?
+</title>
+    <link>http://localhost:3000/blog/DevelopersLife/frontend-developer-quali-linguaggi-framework-e-tool-bisogna-conoscere</link>
+    undefined
+    <pubDate>Wed, 28 Apr 2021 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>imparare a programmare</category><category>frontend developer</category><category>fullstack developer</category>
+  </item>
+
+    </channel>
+  </rss>

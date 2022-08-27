@@ -13,8 +13,9 @@ const root = process.cwd()
 export async function getStaticPaths() {
   const tags = await getAllTags('video')
 
+
   return {
-    paths: Object.keys(tags).map((tag) => ({
+    paths: Object.keys(tags).filter(t => t !== '').map((tag) => ({
       params: {
         tag,
       },
