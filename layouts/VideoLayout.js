@@ -22,7 +22,7 @@ export default function PostLayout({ frontMatter, content, next, prev, children 
               <a href={link} target="_blank" rel="noreferrer">
                 <div className="aspect-w-4 aspect-h-3 overflow-hidden rounded-lg bg-gray-100">
                   <Image
-                    src={`http://img.youtube.com/vi/${id}/mqdefault.jpg`}
+                    src={`https://img.youtube.com/vi/${id}/mqdefault.jpg`}
                     alt={title}
                     className="object-cover object-center"
                     width="340px"
