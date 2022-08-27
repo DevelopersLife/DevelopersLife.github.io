@@ -1,5 +1,6 @@
 import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
+import Link from "next/link";
 
 export default function HomeLayout({ frontMatter }) {
   const { metadata_name, metadata_description } = frontMatter
@@ -28,22 +29,20 @@ export default function HomeLayout({ frontMatter }) {
                     <span className="block text-indigo-200">Community</span>
                   </h1>
                   <p className="mx-auto mt-6 max-w-lg text-center text-xl text-indigo-200 sm:max-w-3xl">
-                    La community di chi è Developer o lo sarà in futuro!
+                    La community di Developer, aspiranti Developer e semplici curiosi!
                   </p>
                   <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                     <div className="space-y-4 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5 sm:space-y-0">
-                      <a
-                        href="#"
-                        className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-3 text-base font-medium text-indigo-700 shadow-sm hover:bg-indigo-50 sm:px-8"
-                      >
-                        Get started
-                      </a>
-                      <a
-                        href="#"
-                        className="flex items-center justify-center rounded-md border border-transparent bg-indigo-500 bg-opacity-60 px-4 py-3 text-base font-medium text-white shadow-sm hover:bg-opacity-70 sm:px-8"
-                      >
-                        Live demo
-                      </a>
+                      <Link href={`/video/page/1`}>
+                        <a className="flex items-center justify-center rounded-md border border-transparent bg-white px-4 py-3 text-base font-medium text-indigo-700 shadow-sm hover:bg-indigo-50 sm:px-8">
+                          Vai ai Video
+                        </a>
+                      </Link>
+                      <Link href={`/about`}>
+                        <a className="flex items-center justify-center rounded-md border border-transparent bg-indigo-500 bg-opacity-60 px-4 py-3 text-base font-medium text-white shadow-sm hover:bg-opacity-70 sm:px-8">
+                          Chi Siamo
+                        </a>
+                      </Link>
                     </div>
                   </div>
                 </div>

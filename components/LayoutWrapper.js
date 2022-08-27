@@ -15,7 +15,7 @@ const LayoutWrapper = ({ children }) => {
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="flex items-center justify-between">
-                <div className="mr-3">
+                <div className="mr-3" style={{marginTop: "20px"}}>
                   {/*<Logo />*/}
                   <Image
                     src={`${siteMetadata.siteUrl}/static/images/developerslife_logo.png`}
@@ -26,7 +26,7 @@ const LayoutWrapper = ({ children }) => {
                   />
                 </div>
                 {typeof siteMetadata.headerTitle === 'string' ? (
-                  <div className="hidden h-6 text-2xl font-semibold sm:block">
+                  <div className="hidden h-6 text-2xl font-semibold sm:block" style={{lineHeight: 1}}>
                     {siteMetadata.headerTitle}
                   </div>
                 ) : (

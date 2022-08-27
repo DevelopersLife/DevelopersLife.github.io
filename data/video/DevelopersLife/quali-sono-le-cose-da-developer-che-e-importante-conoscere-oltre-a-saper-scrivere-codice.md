@@ -17,13 +17,13 @@ tags:
 - softskill
 - DevelopersLife
 ---
-Per un developer (soprattutto per i più bravi developer) saper scrivere ottimo codice non è tutto! Ovviamente è indispensabile saper scrivere codice ma ci sono una valanga di altre qualità che un ottimo sviluppatore software dovrebbe valutare, qui qualche spunto ma non esitare ad aggiungerne altre.
-
-Hai consigli o domande? Falle nei commenti così da darmi ispirazione per i nuovi video! Che tu sia un super esperto del settore o solo un curioso ogni domanda è la benvenuta! :)
-
-#developer #softskill #DevelopersLife 
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/developerslifechannel
-💥 Profilo Instagram: https://www.instagram.com/developerslifechannel/
+Per un developer (soprattutto per i più bravi developer) saper scrivere ottimo codice non è tutto! Ovviamente è indispensabile saper scrivere codice ma ci sono una valanga di altre qualità che un ottimo sviluppatore software dovrebbe valutare, qui qualche spunto ma non esitare ad aggiungerne altre.  
+  
+Hai consigli o domande? Falle nei commenti così da darmi ispirazione per i nuovi video! Che tu sia un super esperto del settore o solo un curioso ogni domanda è la benvenuta! :)  
+  
+#developer #softskill #DevelopersLife   
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/developerslifechannel  
+💥 Profilo Instagram: https://www.instagram.com/developerslifechannel/  
 💣 Profilo TikTok: https://www.tiktok.com/@developerslife

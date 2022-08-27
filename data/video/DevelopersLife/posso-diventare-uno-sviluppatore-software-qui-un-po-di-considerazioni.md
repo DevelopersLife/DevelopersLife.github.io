@@ -17,13 +17,13 @@ tags:
 - SviluppatoreSoftware
 - Requisiti
 ---
-In questo video rispondo ad alcune delle domande che più spesso mi fate sul diventare uno Sviluppatore Software (come, prerequisiti e motivazione). Ho cercato di raccogliere tutte le domande che spesso mi fate (o fate in chat) in un unico video introduttivo!
-
-#DevelopersLife #SviluppatoreSoftware #Requisiti
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video rispondo ad alcune delle domande che più spesso mi fate sul diventare uno Sviluppatore Software (come, prerequisiti e motivazione). Ho cercato di raccogliere tutte le domande che spesso mi fate (o fate in chat) in un unico video introduttivo!  
+  
+#DevelopersLife #SviluppatoreSoftware #Requisiti  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

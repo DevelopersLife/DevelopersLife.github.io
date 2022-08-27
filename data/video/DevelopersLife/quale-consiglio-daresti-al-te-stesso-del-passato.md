@@ -17,13 +17,13 @@ tags:
 - suggestion
 - consigli
 ---
-In questo video sono io a chiedervi di dare un consiglio a chi vuole iniziare, a chi vuole migliorare e in generale qualsiasi consiglio (anche più di uno) dareste al voi del passato! 
-Li raccoglierò e ci farò un altro video ad hoc entro fine anno! :)
-
-
-Ciao, mi trovi anche su:
-Vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/howimetmich/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video sono io a chiedervi di dare un consiglio a chi vuole iniziare, a chi vuole migliorare e in generale qualsiasi consiglio (anche più di uno) dareste al voi del passato!   
+Li raccoglierò e ci farò un altro video ad hoc entro fine anno! :)  
+  
+  
+Ciao, mi trovi anche su:  
+Vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/howimetmich/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

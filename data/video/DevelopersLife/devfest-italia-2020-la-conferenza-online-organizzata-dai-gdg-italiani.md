@@ -17,14 +17,14 @@ tags:
 - gdg
 - conference
 ---
-I GDG Italiani (Google Developers Group) sono community di appassionati di tecnologia, innovazione e molto altro. Sparsi per il territorio nazionale organizzano una quantità di eventi incredibile in cui parlano di tecnologia e altri topic EPICI! 
-
-La DevFest è una conferenza (quest'anno online) in cui tantissimi speaker raccontano tecnologia, softskill e altre cose, quest'anno sarà il 17 e 18 Ottobre, puoi prenotare un posto GRATUITO e trovare maggiori informazioni qui: https://www.devfest.it/
-
-Se vuoi portare un contenuto, puoi partecipare alla call 4 paper qui (entro il 30 Settembre): https://sessionize.com/devfest-italia-2020/
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-🔥 Pagina Facebook: https://www.facebook.com/howimetmich/
-💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+I GDG Italiani (Google Developers Group) sono community di appassionati di tecnologia, innovazione e molto altro. Sparsi per il territorio nazionale organizzano una quantità di eventi incredibile in cui parlano di tecnologia e altri topic EPICI!   
+  
+La DevFest è una conferenza (quest'anno online) in cui tantissimi speaker raccontano tecnologia, softskill e altre cose, quest'anno sarà il 17 e 18 Ottobre, puoi prenotare un posto GRATUITO e trovare maggiori informazioni qui: https://www.devfest.it/  
+  
+Se vuoi portare un contenuto, puoi partecipare alla call 4 paper qui (entro il 30 Settembre): https://sessionize.com/devfest-italia-2020/  
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+🔥 Pagina Facebook: https://www.facebook.com/howimetmich/  
+💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 💣 Profilo Twitter: https://twitter.com/michelmurabito

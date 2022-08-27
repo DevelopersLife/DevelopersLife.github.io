@@ -17,6 +17,6 @@ tags:
 - christmas
 - life
 ---
-In questo video semplicemente Buon Natale da DevelopersLife!!!
-
+In questo video semplicemente Buon Natale da DevelopersLife!!!  
+  
 #developer #christmas #life

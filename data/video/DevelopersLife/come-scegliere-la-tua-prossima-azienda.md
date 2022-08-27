@@ -15,8 +15,8 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-In questa live parliamo di quali fattori valutare per scegliere la tua prossima (o anche la tua prima) azienda! :)
-
-Qui trovate qualche link utile
-AI and Coding YouTube: https://www.youtube.com/channel/UCBPKjsatRZ-JjKCu_wlTLjQ
+In questa live parliamo di quali fattori valutare per scegliere la tua prossima (o anche la tua prima) azienda! :)  
+  
+Qui trovate qualche link utile  
+AI and Coding YouTube: https://www.youtube.com/channel/UCBPKjsatRZ-JjKCu_wlTLjQ  
 AI and Coding Instagram: https://www.instagram.com/aiandcoding/

@@ -1,18 +1,28 @@
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
 import Image from '@/components/Image'
-import Tag from '@/components/Tag'
 import siteMetadata from '@/data/siteMetadata'
-import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import Link from '@/components/Link'
 
-export default function PostLayout({ frontMatter, content, next, prev, children }) {
-  const { id, link, title, description_short, description, date, tags, slug } = frontMatter
+export default function PostLayout({ frontMatter, next, prev, children }) {
+  const { id, link, title, description_short, date, tags, slug, description } = frontMatter
+  const onlyDate = date.split("T")[0];
+
+  const seoObject = {
+    authorDetails: [
+      {name: slug.split("/")[0]},
+    ],
+    title,
+    summary: description,
+    date,
+    lastmod: new Date(),
+    url: `${siteMetadata.siteUrl}/video/${slug}`
+  }
 
   return (
     <SectionContainer>
-      <BlogSEO url={`${siteMetadata.siteUrl}/video/${slug}`} {...frontMatter} />
+      <BlogSEO {...seoObject} />
       <ScrollTopAndComment />
       <div className="bg-white">
         <div className="mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
@@ -45,14 +55,16 @@ export default function PostLayout({ frontMatter, content, next, prev, children 
                     Descrizione
                   </h2>
                   <p className="mt-2 text-sm text-gray-500">
-                    Caricato il <time dateTime={date}>{date}</time>
+                    Caricato il {onlyDate}
                   </p>
                 </div>
               </div>
 
               <div className="mt-6 text-xs text-gray-500">
                 <p className="text-xl">Descrizione:</p>
-                {description_short}
+                <p className="text-lg text-gray-500">
+                  <strong>{description_short}</strong>
+                </p>
               </div>
 
               <div className="mt-2 border-t border-gray-200 pt-2">
@@ -61,14 +73,14 @@ export default function PostLayout({ frontMatter, content, next, prev, children 
               </div>
 
               <div className="mt-4 grid grid-cols-1 gap-x-6 gap-y-4 sm:grid-cols-2">
-                <a href={link} target="_blank" rel="noreferrer">
+                <Link href={link} target="_blank" rel="noreferrer">
                   <button
                     type="button"
                     className="flex w-full items-center justify-center rounded-md border border-transparent bg-indigo-600 py-3 px-8 text-base font-medium text-white hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 focus:ring-offset-gray-50"
                   >
                     Guarda su YouTube
                   </button>
-                </a>
+                </Link>
               </div>
 
               <div className="mt-2 border-t border-gray-200 pt-2">

@@ -2,6 +2,7 @@ import SocialIcon from '@/components/social-icons'
 import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 import React from 'react'
+import siteMetadata from "@/data/siteMetadata";
 
 const supportLinks = [
   {
@@ -52,11 +53,22 @@ const supportLinks = [
 ]
 
 export default function AboutLayout({ frontMatter, team }) {
-  const { name, avatar, occupation, company, email, twitter, linkedin, github } = frontMatter
+  const { name } = frontMatter
+
+  const seoObject = {
+    authorDetails: [
+      {name: "DevelopersLife WebSite"},
+    ],
+    title: "Chi Siamo - DevelopersLife",
+    summary: "Chi sono le persone dietro DevelopersLife, DevelopersLife la community per diventare sviluppatori software",
+    date: new Date(),
+    lastmod: new Date(),
+    url: `${siteMetadata.siteUrl}/about`
+  }
 
   return (
     <>
-      <PageSEO title={`About - ${name}`} description={`About me - ${name}`} />
+      <PageSEO title={seoObject.title} description={seoObject.summary} />
       <div>
         <div>
           <div className="relative bg-gray-800 pb-32">

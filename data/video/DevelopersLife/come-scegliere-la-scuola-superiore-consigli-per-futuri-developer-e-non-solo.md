@@ -17,13 +17,13 @@ tags:
 - Studio
 - ScuolaSuperiore
 ---
-Qualche consigli per fare una scelta consapevole per futuri developer e non solo. In questo video parliamo di scuola superiore, dò anche alcuni consigli su alcune domande arrivate nel corso del tempo per aiutare i futuri sviluppatori (e non solo) a fare una scelta migliore (e più consapevole).
-
-#DevelopersLife #Studio #ScuolaSuperiore
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Qualche consigli per fare una scelta consapevole per futuri developer e non solo. In questo video parliamo di scuola superiore, dò anche alcuni consigli su alcune domande arrivate nel corso del tempo per aiutare i futuri sviluppatori (e non solo) a fare una scelta migliore (e più consapevole).  
+  
+#DevelopersLife #Studio #ScuolaSuperiore  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

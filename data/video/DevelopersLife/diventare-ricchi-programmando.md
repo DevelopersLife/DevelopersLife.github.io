@@ -17,10 +17,10 @@ tags:
 - work
 - salario
 ---
-Si può diventare ricchi programmando? Spesso se lo chiedono in molti, in questo video molto breve vediamo come la penso al riguardo e se effettivamente è possibile.
-
-Ciao, mi trovi anche su:
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/howimetmich/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Si può diventare ricchi programmando? Spesso se lo chiedono in molti, in questo video molto breve vediamo come la penso al riguardo e se effettivamente è possibile.  
+  
+Ciao, mi trovi anche su:  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/howimetmich/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

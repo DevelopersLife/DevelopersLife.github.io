@@ -17,8 +17,8 @@ tags:
 - vlog
 - devfest
 ---
-Un repost di un vlog fatto durante la DevFest Pescara 2019!
-
-Ormai sono passati due anni, tantissime cose sono cambiate ma la voglia di rivedere un sacco di amici dal vivo e tornare a fare gli eventi di persona è ancora più forte di prima!
-
+Un repost di un vlog fatto durante la DevFest Pescara 2019!  
+  
+Ormai sono passati due anni, tantissime cose sono cambiate ma la voglia di rivedere un sacco di amici dal vivo e tornare a fare gli eventi di persona è ancora più forte di prima!  
+  
 #conference #vlog #devfest

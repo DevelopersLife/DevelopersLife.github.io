@@ -15,13 +15,13 @@ channel: 'DevelopersLife'
 tags: 
 - Shorts
 ---
-In questo video un consiglio che voglio darti su come gestire e tenere traccia di come usi il tuo tempo! #Shorts
-
-Qui il video sul tempo: https://youtu.be/sW0322TqC-Y
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+In questo video un consiglio che voglio darti su come gestire e tenere traccia di come usi il tuo tempo! #Shorts  
+  
+Qui il video sul tempo: https://youtu.be/sW0322TqC-Y  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito​

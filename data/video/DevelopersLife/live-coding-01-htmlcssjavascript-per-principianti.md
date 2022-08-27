@@ -15,6 +15,6 @@ channel: 'DevelopersLife'
 tags: 
 - 
 ---
-In questa live vediamo insieme un piccolo progetto da zero in HTML, CSS, JavaScript e Firebase.
-
+In questa live vediamo insieme un piccolo progetto da zero in HTML, CSS, JavaScript e Firebase.  
+  
 Adatta per i principianti che vogliono avvicinarsi alla programmazione ed alla programmazione web

@@ -17,12 +17,12 @@ tags:
 - work
 - funny
 ---
-Un video ironico su quali gironi dell'inferno esistono (secondo me) per noi developer!
-
-E tu che gironi immagini esserci?
-
-Ciao, mi trovi anche su:
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/howimetmich/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Un video ironico su quali gironi dell'inferno esistono (secondo me) per noi developer!  
+  
+E tu che gironi immagini esserci?  
+  
+Ciao, mi trovi anche su:  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/howimetmich/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

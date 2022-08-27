@@ -17,13 +17,13 @@ tags:
 - programmatori
 - codice
 ---
-Molti programmatori cercano di scrivere codice migliore, per farlo non solo bisogna scrivere ottimo codice, ma i programmatori devono avere una attenzione maniacale verso il codice che scrivono! Queste attenzioni sono spesso anche relative al rendere il vostro codice robusto e adatto a chiunque (anche con piccole attenzioni).
-
-In questo video ne parliamo, facendo qualche esempio di cose successe! :)
-
-Ciao, mi trovi anche su:
-Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397
-Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/
-Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Molti programmatori cercano di scrivere codice migliore, per farlo non solo bisogna scrivere ottimo codice, ma i programmatori devono avere una attenzione maniacale verso il codice che scrivono! Queste attenzioni sono spesso anche relative al rendere il vostro codice robusto e adatto a chiunque (anche con piccole attenzioni).  
+  
+In questo video ne parliamo, facendo qualche esempio di cose successe! :)  
+  
+Ciao, mi trovi anche su:  
+Se vuoi suggerirmi un argomento da trattare: https://forms.gle/QTQfGh6P99eWzv397  
+Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+Pagina Facebook: https://www.facebook.com/DevelopersLifeChannel/  
+Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 Profilo Twitter: https://twitter.com/michelmurabito

@@ -15,10 +15,10 @@ channel: 'DevelopersLife'
 tags: 
 - Shorts
 ---
-Oggi è il 14 Marzo, che con io formato americano è 3/14, come le prime tre cifre del Pi Greco!
-
-Buon giorno del Pi Greco a tutti voi!
-
-Auguri a tutta la matematica! 😁
-
+Oggi è il 14 Marzo, che con io formato americano è 3/14, come le prime tre cifre del Pi Greco!  
+  
+Buon giorno del Pi Greco a tutti voi!  
+  
+Auguri a tutta la matematica! 😁  
+  
 Altro video #Shorts !

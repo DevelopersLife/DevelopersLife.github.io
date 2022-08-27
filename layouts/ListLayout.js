@@ -5,6 +5,7 @@ import { useState } from 'react'
 import Pagination from '@/components/Pagination'
 import formatDate from '@/lib/utils/formatDate'
 import Image from 'next/image'
+import {BlogSEO} from "@/components/SEO";
 
 export default function ListLayout({ posts, title, initialDisplayPosts = [], pagination, entity }) {
   const [searchValue, setSearchValue] = useState('')
@@ -17,8 +18,19 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
   const displayPosts =
     initialDisplayPosts.length > 0 && !searchValue ? initialDisplayPosts : filteredBlogPosts
 
+  const seoObject = {
+    authorDetails: [
+      {name: "DevelopersLife WebSite"},
+    ],
+    title: "Video - DevelopersLife",
+    summary: "Diventare uno sviluppatore software, video per imparare a programmare. Impara a programmare!",
+    date: new Date(),
+    lastmod: new Date(),
+  }
+
   return (
     <>
+      <BlogSEO {...seoObject} />
       <div className="relative px-4 pt-16 pb-2 sm:px-6 lg:px-8 lg:pt-24 lg:pb-4">
         <div className="absolute inset-0">
           <div className="h-1/3 sm:h-2/3" />

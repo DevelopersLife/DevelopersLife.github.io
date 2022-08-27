@@ -17,6 +17,6 @@ tags:
 - La laurea e la matematica per programmare sono indispensabili?
 - laurea
 ---
-La laurea e la matematica per programmare sono necessarie? Spesso è la domanda che tutti si fanno ed in questo video vediamo quali sono gli studi e le competenze da avere per iniziare ed evolvere in questo lavoro.
-
+La laurea e la matematica per programmare sono necessarie? Spesso è la domanda che tutti si fanno ed in questo video vediamo quali sono gli studi e le competenze da avere per iniziare ed evolvere in questo lavoro.  
+  
 All'interno un esempio utile per tutti per capire cosa significa avere le competenze che si possono ottenere con una laurea (ad esempio) in informatica rispetto a non averle. La matematica è importante per programmare? Quali competenze per iniziare?

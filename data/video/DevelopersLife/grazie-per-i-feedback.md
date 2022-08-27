@@ -17,12 +17,12 @@ tags:
 - YouTube
 - feedback
 ---
-Qualche settimana fa, avevo chiesto qualche consiglio su contenuti di valore da portare sul canale.
-Incredibile quante risposte e quanti feedback siano arrivati!
-Grazie di cuore!
-
-Ciao, mi trovi anche su:
-🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g
-🔥 Pagina Facebook: https://www.facebook.com/howimetmich/
-💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it
+Qualche settimana fa, avevo chiesto qualche consiglio su contenuti di valore da portare sul canale.  
+Incredibile quante risposte e quanti feedback siano arrivati!  
+Grazie di cuore!  
+  
+Ciao, mi trovi anche su:  
+🧨 Telegram Developers Life: https://t.me/joinchat/BItvlxik7J6iwIqJE3b99g  
+🔥 Pagina Facebook: https://www.facebook.com/howimetmich/  
+💥 Profilo Instagram: https://www.instagram.com/michel_murabito/?hl=it  
 💣 Profilo Twitter: https://twitter.com/michelmurabito

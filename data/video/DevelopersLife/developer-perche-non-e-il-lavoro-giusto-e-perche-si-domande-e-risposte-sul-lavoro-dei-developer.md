@@ -17,6 +17,6 @@ tags:
 - Work
 - DiventareSviluppatore
 ---
-in questo video parliamo di lavoro da Developer, passione e rispondiamo ad alcune domande che spesso leggo in giro.
-
+in questo video parliamo di lavoro da Developer, passione e rispondiamo ad alcune domande che spesso leggo in giro.  
+  
 #Developer #Work #DiventareSviluppatore
