@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>https://developerslife.dev//blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-eu</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sun, 28 Aug 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://developerslife.dev//tags/passione/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://developerslife.dev//blog/DevelopersLife/la-chiave-del-successo-lavoro-e-passione</guid>
+    <title>La chiave del successo: Lavoro e Passione!
+</title>
+    <link>https://developerslife.dev//blog/DevelopersLife/la-chiave-del-successo-lavoro-e-passione</link>
+    undefined
+    <pubDate>Sun, 28 Aug 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>developer</category><category>passione</category><category>lavoro</category>
+  </item>
+
+    </channel>
+  </rss>
