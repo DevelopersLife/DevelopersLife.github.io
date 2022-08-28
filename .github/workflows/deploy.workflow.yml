@@ -19,6 +19,7 @@ jobs:
           npm i
           npm run build
           npm run export
+          echo "developerslife.dev" > ./out/CNAME
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
