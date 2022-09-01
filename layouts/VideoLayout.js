@@ -26,13 +26,13 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
     <SectionContainer>
       <BlogSEO {...seoObject} />
       <ScrollTopAndComment />
-      <div className="bg-white">
+      <div>
         <div className="mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
           <div className="lg:grid lg:grid-cols-7 lg:grid-rows-1 lg:gap-x-8 lg:gap-y-10 xl:gap-x-16">
             {/* Product image */}
             <div className="lg:col-span-4 lg:row-end-1">
               <a href={link} target="_blank" rel="noreferrer">
-                <div className="aspect-w-4 aspect-h-3 overflow-hidden rounded-lg bg-gray-100">
+                <div className="aspect-w-4 aspect-h-3 overflow-hidden rounded-lg">
                   <Image
                     src={`https://img.youtube.com/vi/${id}/mqdefault.jpg`}
                     alt={title}
@@ -49,29 +49,29 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
             <div className="mx-auto mt-14 max-w-2xl sm:mt-16 lg:col-span-3 lg:row-span-2 lg:row-end-2 lg:mt-0 lg:max-w-none">
               <div className="flex flex-col-reverse">
                 <div className="mt-4">
-                  <h1 className="text-2xl font-extrabold tracking-tight text-gray-900 sm:text-3xl">
+                  <h1 className="text-2xl font-extrabold tracking-tight text-900 sm:text-3xl">
                     {title}
                   </h1>
 
                   <h2 id="information-heading" className="sr-only">
                     Descrizione
                   </h2>
-                  <p className="mt-2 text-sm text-gray-500">
+                  <p className="mt-2 text-sm text-500">
                     Caricato il {onlyDate}
                   </p>
                 </div>
               </div>
 
-              <div className="mt-6 text-xs text-gray-500">
+              <div className="mt-6 text-xs text-500">
                 <p className="text-xl">Descrizione:</p>
-                <p className="text-lg text-gray-500">
+                <p className="text-lg text-500">
                   <strong>{description_short}</strong>
                 </p>
               </div>
 
-              <div className="mt-2 border-t border-gray-200 pt-2">
-                <h3 className="text-sm font-medium text-gray-900">Tags: </h3>
-                <div className="prose prose-sm mt-2 text-gray-500">
+              <div className="mt-2 border-t border-200 pt-2">
+                <h3 className="text-sm font-medium text-900">Tags: </h3>
+                <div className="prose prose-sm mt-2 text-500">
                   {parsedTags.map((t) => {
                     return <span key={t}>
                       <Link href={`/tags/${t}`}>
@@ -94,13 +94,13 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
               </div>
 
               <div className="mt-2 border-t border-gray-200 pt-2">
-                <h3 className="text-sm font-medium text-gray-900">Condividi</h3>
+                <h3 className="text-sm font-medium text-900">Condividi</h3>
                 <ul role="list" className="mt-4 flex items-center space-x-6">
                   <li>
                     <a
                         href={`https://www.linkedin.com/sharing/share-offsite/?url=${siteMetadata.siteUrl}/video/${channel}/${slug}`}
                         target="_blank"
-                        className="flex h-6 w-6 items-center justify-center text-gray-400 hover:text-gray-500"
+                        className="flex h-6 w-6 items-center justify-center text-400 hover:text-500"
                     >
                       <span className="sr-only">Share on LinkedIn</span>
                       <svg
@@ -121,7 +121,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                     <a
                       href={`https://twitter.com/intent/tweet?text=${title} guarda questo video:+${siteMetadata.siteUrl}/video/${channel}/${slug}`}
                       target="_blank"
-                      className="flex h-6 w-6 items-center justify-center text-gray-400 hover:text-gray-500"
+                      className="flex h-6 w-6 items-center justify-center text-400 hover:text-500"
                     >
                       <span className="sr-only">Share on Twitter</span>
                       <svg
@@ -138,7 +138,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                     <a
                         href={`https://www.facebook.com/sharer/sharer.php?u=${siteMetadata.siteUrl}/video/${channel}/${slug}`}
                         target="_blank"
-                        className="flex h-6 w-6 items-center justify-center text-gray-400 hover:text-gray-500"
+                        className="flex h-6 w-6 items-center justify-center text-400 hover:text-500"
                     >
                       <span className="sr-only">Share on Facebook</span>
                       <svg
@@ -160,7 +160,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
             </div>
           </div>
         </div>
-        <div className="relative overflow-hidden bg-white">
+        <div className="relative overflow-hidden">
           <div className="hidden lg:absolute lg:inset-y-0 lg:block lg:h-full lg:w-full">
             <div className="relative mx-auto h-full max-w-prose text-lg" aria-hidden="true">
               <svg
@@ -184,7 +184,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                       y={0}
                       width={4}
                       height={4}
-                      className="text-gray-200"
+                      className="text-200"
                       fill="currentColor"
                     />
                   </pattern>
@@ -212,7 +212,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                       y={0}
                       width={4}
                       height={4}
-                      className="text-gray-200"
+                      className="text-200"
                       fill="currentColor"
                     />
                   </pattern>
@@ -240,7 +240,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                       y={0}
                       width={4}
                       height={4}
-                      className="text-gray-200"
+                      className="text-200"
                       fill="currentColor"
                     />
                   </pattern>
@@ -255,7 +255,7 @@ export default function PostLayout({ frontMatter, next, prev, children }) {
                 <span className="block text-center text-base font-semibold uppercase tracking-wide text-indigo-600">
                   Descrizione
                 </span>
-                <span className="mt-2 block text-center text-3xl font-extrabold leading-8 tracking-tight text-gray-900 sm:text-4xl">
+                <span className="mt-2 block text-center text-3xl font-extrabold leading-8 tracking-tight text-900 sm:text-4xl">
                   {title}
                 </span>
               </h1>
