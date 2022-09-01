@@ -88,7 +88,7 @@ export default function AboutLayout({ frontMatter, team }) {
               <p className="mt-6 max-w-3xl text-xl text-gray-300">
                 DevelopersLife è la community per Developer e aspiranti! <br />
                 Il nostro scopo è aiutare tutti i Developer o chi vuole diventarlo. <br />
-                Lo facciamo raccontando la vita e il lavoro degli Sviluppatori Softwaare <br />
+                Lo facciamo raccontando la vita e il lavoro degli Sviluppatori Software<br />
               </p>
             </div>
           </div>
