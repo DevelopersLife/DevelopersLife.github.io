@@ -1,7 +1,7 @@
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
 import Image from '@/components/Image'
-import siteMetadata from '@/data/siteMetadata'
+import siteMetadata from '@/data/metadata'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 import Link from '@/components/Link'
 

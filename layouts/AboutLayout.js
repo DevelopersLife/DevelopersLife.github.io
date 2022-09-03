@@ -2,7 +2,7 @@ import SocialIcon from '@/components/social-icons'
 import Image from '@/components/Image'
 import { PageSEO } from '@/components/SEO'
 import React from 'react'
-import siteMetadata from "@/data/siteMetadata";
+import siteMetadata from "@/data/metadata";
 
 const supportLinks = [
   {
