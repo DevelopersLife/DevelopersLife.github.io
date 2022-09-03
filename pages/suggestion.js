@@ -26,7 +26,7 @@ export default function About() {
                         marginHeight="0"
                         marginWidth="0"
                         width="800"
-                        height="600"
+                        height="800"
                     >
                         Caricamento…
                     </iframe>
