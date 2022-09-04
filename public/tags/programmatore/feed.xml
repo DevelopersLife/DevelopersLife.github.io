@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Fri, 25 Jun 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/programmatore/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/programmatore/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</guid>
     <title>News su DevelopersLife: Il Canale dove parliamo della Vita e del Lavoro dello Sviluppatore Software
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</link>
     undefined
     <pubDate>Fri, 25 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</guid>
     <title>Backend per Sviluppatori Software: 4 Chiacchiere con Gregorio
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</link>
     undefined
     <pubDate>Wed, 23 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
     <title>Elettronica: come iniziare? Quattro chiacchiere con Juna
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
     undefined
     <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -44,10 +44,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</guid>
     <title>4 Chiacchiere e News sul Canale!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/4-chiacchiere-e-news-sul-canale</link>
     undefined
     <pubDate>Mon, 14 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -55,10 +55,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</guid>
     <title>Quattro chiacchiere su Flutter! Sviluppare Software con Flutter nel 2021
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</link>
     undefined
     <pubDate>Mon, 07 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -66,10 +66,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</guid>
     <title>Perchè (da Sviluppatore) imparare Docker? E perchè farlo proprio adesso? - #D8TechDays
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</link>
     undefined
     <pubDate>Mon, 31 May 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -77,10 +77,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</guid>
     <title>Stackoverflow, cos&#39;è e perche da Sviluppatori dovreste usarlo?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</link>
     undefined
     <pubDate>Mon, 24 May 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -88,10 +88,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</guid>
     <title>Sta arrivando la D8 Tech Days! Una serie di chiacchierate per Sviluppatori e Apprendisti Developer!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</link>
     undefined
     <pubDate>Thu, 20 May 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -99,10 +99,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</guid>
     <title>Sviluppatori, considerazioni sull&#39;età per scrivere codice
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</link>
     undefined
     <pubDate>Wed, 05 May 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -110,10 +110,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</guid>
     <title>Tema Light vs Dark per IDE e Programmi, quale scegliere e perchè?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</link>
     undefined
     <pubDate>Mon, 03 May 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -121,10 +121,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</guid>
     <title>Cos&#39;è GIT? Cosa sono Github, Gitlab e Bitbucket?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</link>
     undefined
     <pubDate>Mon, 26 Apr 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -132,10 +132,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</guid>
     <title>Vivere a Milano? La mia esperienza! (Per Sviluppatori e non solo!)
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</link>
     undefined
     <pubDate>Wed, 07 Apr 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -143,10 +143,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</guid>
     <title>Sviluppatori, imparate a fare le giuste domande nel modo giusto!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</link>
     undefined
     <pubDate>Wed, 24 Mar 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -154,10 +154,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</guid>
     <title>Equilibrio tra Lavoro e Vita. Panoramica per sviluppatori e non sul work-life balance
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</link>
     undefined
     <pubDate>Mon, 15 Mar 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -165,10 +165,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</guid>
     <title>5000 euro al mese da sviluppatore (o programmatore software) è possibile in italia?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</link>
     undefined
     <pubDate>Fri, 29 Jan 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

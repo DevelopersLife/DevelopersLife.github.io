@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 16 Dec 2020 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/opportunità/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/opportunità/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</guid>
     <title>Sviluppatori Software: opportunità e la capacità di saltare (di tanto in tanto)
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</link>
     undefined
     <pubDate>Wed, 16 Dec 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

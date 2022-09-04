@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Sat, 30 Jul 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/youtube/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/youtube/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/siamo-tornati</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/siamo-tornati</guid>
     <title>Siamo Tornati! :)
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/siamo-tornati</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/siamo-tornati</link>
     undefined
     <pubDate>Sat, 30 Jul 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</guid>
     <title>Speciale: Un anno di YouTube! Da 0 a 1600+ iscritti!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</link>
     undefined
     <pubDate>Tue, 31 Aug 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</guid>
     <title>YouTube Shorts BUG (Video Shorts pubblicati come video normali)
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</link>
     undefined
     <pubDate>Tue, 20 Jul 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -44,10 +44,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</guid>
     <title>Alcuni canali YouTube che DOVRESTI seguire! Per Developer e aspiranti
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</link>
     undefined
     <pubDate>Mon, 16 Nov 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -55,10 +55,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/grazie-per-i-feedback</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/grazie-per-i-feedback</guid>
     <title>Grazie per i feedback
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/grazie-per-i-feedback</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/grazie-per-i-feedback</link>
     undefined
     <pubDate>Mon, 03 Aug 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

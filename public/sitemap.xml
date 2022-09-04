@@ -1,884 +1,1292 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3000/about</loc>
+    <loc>https://developerslife.dev//about</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000</loc>
+    <loc>https://developerslife.dev/</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/1000iscritti</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/age</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/algoritmi</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/accessibilit</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/angular-live-coding</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/angular</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/5000-euro-mese-sviluppatore-programmatore-software</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/anniversario</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/annonuovo</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/annunci</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/annuncio</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/ar</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/ascoltare-musica-scrivendo-codice</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/augmented-reality</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/auguri</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/automazione</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/azienda</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/backend</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/bug</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/buoneabitudini</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/buonipropositi</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/buonnatale</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/bustapaga</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/carriera</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/carriera-freelancer-sviluppatore</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/certificazioni</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/chiedere-aumento</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/chiedere-aumento-stipendio</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/christmas</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/cloud-architect</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/codice</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/coding</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/colloquio</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/colloquio-di-lavoro-programmatore</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/community</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/company</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/comunicazione</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/concentrazione</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/conference</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/confrontarsi</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/consigli</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/contratto</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/css</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/curriculum</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/curriculum-programmatori</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/curriculumvitae</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/degree</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/designpattern</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/developer</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/developer-consigli</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/developer-in-inghilterra</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/developerlife</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/developerslife</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/devfest</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/disabilit</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/diventare-uno-sviluppatore</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/diventaresviluppatore</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/elettronica</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/errori</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/evoluzione</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/feedback</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/film-belli</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/film-da-vedere</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/film-netflix</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/flutter</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/framework</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/freelance</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/freelancer</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/frontend-developer</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/fullstack</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/fullstack-developer</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/funny</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/gdg</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/gestioneerrori</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/githubcopilot</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/growth</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/guadagnare-5000-euro-al-mese</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/guadagnare-online</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/help</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/html</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/ide</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/il-primo-lavoro-da-programmatore-qui-qualche-consiglio</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/imparare-a-programmare</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/improvement</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/inclusione</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/informatica</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/ingegneria</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/ingegneria-informatica</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/insegnamenti</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/interview</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/investimenti</loc>
-  </url>
-
-  <url>
-    <loc>http://localhost:3000/tags/javascript</loc>
+    <loc>https://developerslife.dev//suggestion</loc>
   </url>
 
   <url>
     <loc
-      >http://localhost:3000/tags/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</loc
+      >https://developerslife.dev/data/video/DevelopersLife/15-domande-e-risposte-sul-lavoro-dei-developer-imparare-lavorare-networking-ed-evolvere</loc
     >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/languages</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/3-semplici-consigli-su-come-lavorare-in-smart-working</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/laurea</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/4-chiacchiere-con-greta-galli-parliamo-di-vita-lego-e-robotica</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/laurea-programmare-matematica</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/4-chiacchiere-e-news-sul-canale</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavorare-allestero</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/4-chiacchiere-su-coding-e-divulgazione-con-mondo-computazionale</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavori-online</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/5-film-da-vedere-e-perche-a-me-piacciono</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavori-sviluppatore-online</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/5000-euro-al-mese-da-sviluppatore-o-programmatore-software-e-possibile-in-italia</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavoro</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/a-che-eta-si-puo-imparare-la-programmazione-a-che-eta-si-puo-diventare-developer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavoro-programmatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/accessibilita-ne-parliamo-con-i-ragazzi-degli-accessibility-days</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavoro-sviluppatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/alcuni-canali-youtube-che-dovresti-seguire-per-developer-e-aspiranti</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavoro-sviluppatore-milano</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/alcuni-insegnamenti-da-star-wars-per-sviluppatori-e-apprendistipadawan</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lavoronuovo</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/ama-ask-me-anything-passioni-e-hobby-da-sviluppatori-software</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lego-bonsai</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/ama-ask-me-anything-voi-chiedete-ed-io-rispondo</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lego-bonsai-tree</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/annunci-di-lavoro-per-programmatori-qui-qualche-consiglio</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/lego-bonsai-tree-speed-build</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/backend-per-sviluppatori-software-4-chiacchiere-con-gregorio</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/life</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/bitcoin-in-action-playground</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/linguaggio-programmazione</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/blockchain-e-dintorni</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/linguaggio-programmazione-arduino</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/buon-anno-nuovo-il-2020-in-un-video</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/linguaggio-programmazione-c</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/buon-natale-a-reti-unificate</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/live-coding-con-fabio-biondi</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/buon-natale-da-developerslife</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/mac</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/buone-abitudini-per-sviluppatori-software</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/macbook</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/buoni-propositi-del-2021</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/macbook-air-2020</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/cambiare-lavoro-il-coraggio-della-scelta</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/macbook-air-m1</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/carriera-da-developer-dopo-essere-diventati-senior</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/macbook-pro-2020</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/ccnl-commercio-o-metalmeccanico-per-programmatorisviluppatorideveloper</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/macbookair</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/certificazioni-per-developer-consigli-e-pareri</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/macos</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/chiedere-un-aumento-di-stipendio-da-sviluppatore-consigli-pratici</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/manager</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/ci-vediamo-alla-devfest-xmas-torino-4-e-5-dicembre</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/manager-sviluppatore</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/come-cambiare-lavoro-bene-shorts</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/mariokart</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-cambiare-lavoro-consigli-utili-per-developer-che-vogliono-cambiare-azienda</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/microservices</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-confrontarsi-con-altri-developer-al-meglio</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/miglioramento</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-developer-e-meglio-specializzarsi-o-conoscere-tutto</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/migliorare-come-sviluppatore</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/come-diventare-developer</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/migliori-tecnologia</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-diventare-un-programmatore-consigli-su-come-diventare-un-vero-developer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/migliori-telefilm</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/come-e-quando-chiedere-aiuto</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/migliori-telefilm-tecnologia</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-entrare-in-una-community-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/milan</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/come-fare-un-colloquio-di-lavoro</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/natale</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-fare-un-curriculum-vitae-per-developer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/need4nerd</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-formarsi-per-diventare-developer-con-tomorrowdevs</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/news</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-gestire-i-propri-errori-consigli-pratici-per-developers</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/nuovetecnologie</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-guadagnare-di-piu-e-altre-domande-per-sviluppatori-software-w-devday</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/opportunità</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/come-lavorare-in-team</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/organizzazione</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/parlare-in-pubblico</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/come-non-svendere-il-tuo-lavoro</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/path</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-organizzarsi-meglio-come-essere-piu-ordinati-qui-qualche-consiglio-base</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/placebo</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-organizzerei-idealmente-un-progetto-in-team-di-sviluppo-software</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/produttivit</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-rimanere-concentrati-qui-qualche-consiglio</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmare-da-zero</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-rispondere-ad-altri-programmatori-nel-modo-giusto</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmare-per-principianti</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-scegliere-la-scuola-superiore-consigli-per-futuri-developer-e-non-solo</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-scegliere-la-tua-prossima-azienda</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatore-autodidatta</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-sceglire-luniversita-consigli-per-aspiranti-sviluppatori-e-non-solo</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatore-informatico</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-studiare-nuove-tecnologie-linguaggi-o-framework</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatore-software</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-trovare-il-primo-lavoro-per-developer-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatore-web</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-trovare-il-tempo-consigli-utili-per-developer-che-vogliono-imparare-o-migliorare</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatori</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-trovare-le-community-per-developer-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programmatori-codice</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/come-valutare-gli-annunci-di-lavoro</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/programming</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/community-chat-con-crafted-software</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/pulsanti</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/community-cosa-sono</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/qea</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/contratto-metalmeccanico-vs-commercio-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/requisiti</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/risposte</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/cosa-ti-piacerebbe-vedere-negli-shorts-di-developerslife</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/salario</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/cose-cambiato-negli-ultimi-15-anni-per-cio-che-riguarda-lo-sviluppo-web</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/scriverecodice</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/cose-git-cosa-sono-github-gitlab-e-bitbucket</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/scuolasuperiore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/cose-github-copilot-cosa-ne-penso</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/shorts</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/crescere-come-sviluppatore-software-e-come-migliorare-una-chiacchierata-con-jaga</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sistemioperativi</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/curriculum-guida-pratica-per-programmatori-e-non-solo</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/smart-working</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/custom-framework-e-sviluppo-perche-da-sviluppatore-non-sono-una-buona-idea</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/smart-working-come-iniziare</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/da-sviluppatore-a-solution-o-cloud-architect</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/smart-working-pro-e-contro</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/design-pattern-cosa-sono-a-cosa-servono</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/smartworking</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/developer-e-certificazioni-utili-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/soft-skill</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/developer-laurea-triennale-o-specialistica-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/soft-skill-programmatore-sviluppatori</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/developer-perche-non-e-il-lavoro-giusto-e-perche-si-domande-e-risposte-sul-lavoro-dei-developer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/softskill</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/developer-rispondo-alle-vostre-domande-sulla-vita-degli-sviluppatori-software</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/softskills</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/developers-e-lavoro-w-thecarmhack</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/software</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/devfest-italia-2020-la-conferenza-online-organizzata-dai-gdg-italiani</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/softwaredeveloper</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/dibattito-sulla-carriera-da-sviluppatore-w-symongaze</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/solution-architect</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/dipendente-vs-freelance-with-carmhack</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/south-working</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/diventare-programmatore-in-una-startup</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/south-working-smart-working-programmatori</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/diventare-ricchi-programmando</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/star-wars</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/diventare-sviluppatori-web-nel-2020-with-isjeady</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/stipendio</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/diventare-un-developer-plus-la-mia-storia-e-quella-di-developerslife-il-primo-meetup</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/stipendio-sviluppatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/domande-e-risposte-per-sviluppatori-e-4-chiacchiere</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/stress</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/due-chiacchiere-random-con-domande-e-risposte</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/studio</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/due-news-di-questa-settimana-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/study</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/suggerimenti</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/equilibrio-tra-lavoro-e-vita-panoramica-per-sviluppatori-e-non-sul-work-life-balance</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/suggerimenti-dal-futuro-per-sviluppatori---parte-ii-️️️</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/essere-sviluppatori-nel-2021-consigli-su-come-sopravvivere-alle-informazioni</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/suggerimenti-e-consigli-dal-futuro-per-sviluppatori</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/frontend-developer-quali-linguaggi-framework-e-tool-bisogna-conoscere</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/suggestion</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/gironi-dellinferno-per-developer</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppare-codice</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/gli-algoritmi-ci-ruberanno-il-lavoro-considerazioni-da-developer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppare-codice-musica</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/grazie-per-i-feedback</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/how-to-processi-di-selezione-curriculum-colloqui-conoscitivi-e-tecnici</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatore-software</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/i-migliori-telefilm-da-vedere-sulla-tecnologia-la-mia-personale-lista</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatore-solution-cloud-architect</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/il-lavoro-dello-sviluppatore-software-domande-e-risposte-parte-2</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatore-web</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/il-magico-mondo-delle-tastiere-per-sviluppatori-software</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatoresoftware</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/il-primo-lavoro-da-programmatore-qui-qualche-consiglio</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatori</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/il-ritorno-delle-live-qea-per-developer-e-aspiranti</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppatori-insegnamenti-star-wars</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/informatica-vs-ingegneria-informatica</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppo-framework</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/iniziare-a-fare-lo-sviluppatore-da-freelance-su-portali-di-lavoretti-e-marketplace</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppo-framework-sviluppatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/iniziare-la-carriera-come-sviluppatore-freelancer</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppo-software</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/insieme-a-diana-parliamo-di-networking</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/sviluppo-web</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/italia-e-tecnologia-siamo-indietro-su-investimenti-e-conoscenza</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/tasse</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/la-chiave-del-successo-lavoro-e-passione</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/team</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/la-laurea-e-indispensabile-per-lavorare-come-developer-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/teams</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/teamwork</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/la-matematica-e-indispensabile-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/tecnologie</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/la-torre-di-pisa-insegnamenti-per-developer-e-aspiranti</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/test</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/la-vita-da-developer-freelancer-e-come-iniziare</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/torre-di-pisa</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/lavorare-allestero-come-developer-4-chiacchiere-insieme-a-leonardo</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/torre-pendente</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/lavoro-nord-vs-sud</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/trovaretempo</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/lego-bonsai-tree-unboxing-e-montaggio</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/unboxing</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/limportanza-del-lavoro-degli-sviluppatori</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/universit</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/linglese-e-indispensabile-per-fare-il-developer-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/università</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/live-coding-01-htmlcssjavascript-per-principianti</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/vlog</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/live-coding-su-angular-con-fabio-biondi</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/vr</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/live-introduzione-a-docker</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/web-developer</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/live-speciale-1000-iscritti</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/web-developer-freelance</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/macbook-air-m1-per-sviluppare-ed-editing-video-due-mesi-dopo</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/windows</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/macbook-air-m1-unboxing-per-sviluppatori</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/work</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/machine-learning-e-dintorni</loc>
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/worklife-balance</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/manager-vs-sviluppatore-software-avanzamenti-di-carriera-risposte-qui</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/yotube-1000-iscritti-speciale-vlog-programmatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/youtube</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/meglio-frontend-o-backend-developer-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/youtube-1000-iscritti-speciale-vlog-programmatore</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/miglior-linguaggio-di-programmazione-per-iniziare-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/youtube-speciale-1000-iscritti</loc>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/migliori-citta-per-trovare-lavoro-da-developer-shorts</loc
+    >
   </url>
 
   <url>
-    <loc>http://localhost:3000/tags/youtubeshorts</loc>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/news-della-settimana-1-e-qea</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-della-settimana-2-e-qea-con-tomorrowdevs</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-della-settimana-e-4-chiacchiere-w-tomorrowdevs</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-della-settimana-le-ultime-notizie-per-sviluppatori-e-non-solo-w-tomorrowdevs</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-della-settimana-news-per-sviluppatori-e-4-chiacchiere-w-tomorrowdevs</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-della-settimana-speciale-google-io-e-4-chiacchiere-w-tomorrowdevs</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-per-sviluppatori-edizione-1-parliamo-di-ovh-flutter-2-es2021-eventi</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/news-su-developerslife-il-canale-dove-parliamo-della-vita-e-del-lavoro-dello-sviluppatore-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/oggi-a-sentire-fabio-biondi-al-meetup-reactjs-milano-da-localhost-by-crafted-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/oggi-e-il-giorno-del-pi-grego-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/oggi-insieme-ad-un-po-di-streamer-e-youtuber-per-grandi-novita</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/oggi-un-drink-con</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/oggi-un-saluto-da-bergamo-shorts-bergamo</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/perche-da-sviluppatore-imparare-docker-e-perche-farlo-proprio-adesso-d8techdays</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/perche-devi-aiutare-il-prossimo-aiutarsi-tra-developer</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/perche-dovresti-partecipare-alle-conferenze-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/perche-imparare-a-comunicare-bene-suggerimenti-per-sviluppatori-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/perche-non-dovresti-fare-il-developer</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/percorsi-di-studio-alternativi-its-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/percorso-da-developer-nel-2021-domande-e-risposte</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/posso-diventare-uno-sviluppatore-software-qui-un-po-di-considerazioni</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/posso-fare-il-developer-come-capire-se-sviluppare-software-e-la-mia-strada</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/programmatori-da-zero-a-hero-il-percorso-di-un-developer-in-azienda</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/programmatori-e-il-futuro-dello-smart-working-in-italia-cosa-ne-penso</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/programmatori-e-tech-startup-tutto-quello-che-ce-da-sapere</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/programmatori-il-vostro-codice-e-importante-state-attenti-ai-dettagli</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/pulsanti-che-non-funzionano-cosa-sono-i-pulsanti-placebo</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/qea-1-domande-e-risposte-sulla-vita-degli-sviluppatori</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/qea-2-domande-e-risposte-sulla-vita-degli-sviluppatori</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/qea-3-domande-e-risposte</loc>
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/qea-di-fine-anno</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/qea-domande-e-risposte-sulla-vita-e-il-lavoro-degli-sviluppatori</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/qualche-news-ontheroad</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quale-consiglio-daresti-al-te-stesso-del-passato</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quale-linguaggio-di-programmazione-per-iniziare-e-perche</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quale-linguaggio-di-programmazione-scegliere-per-iniziare</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quale-sistema-operativo-per-iniziare-windows-linux-o-macos-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quali-aziende-ti-permettono-di-crescere-come-developer</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quali-materie-universitarie-sono-utili-come-sviluppatore-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quali-sono-i-livelli-da-developer-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quali-sono-le-cose-da-developer-che-e-importante-conoscere-oltre-a-saper-scrivere-codice</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quando-diventi-senior-qui-la-risposta</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quanto-guadagna-uno-sviluppatore-quali-fattori-influiscono-sullo-stipendio-dei-developer</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quanto-vale-il-tuo-tempo-domande-e-risposte-sul-tempo-per-sviluppatori</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/quattro-chiacchiere-su-flutter-sviluppare-software-con-flutter-nel-2021</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/random-live-il-qea-infrasettimanale-che-non-ti-aspetti</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/random-live-with-jagasantagostino</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/repost-devfest-pescara-2019-il-vlog</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/road-to-devfest-italia-2020</loc>
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/siamo-tornati</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sistemi-operativi-per-sviluppatori-software-qualche-consiglio-e-considerazione</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/soft-skill-parlare-in-pubblico-e-sviluppatori-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/soft-skill-per-sviluppatori-come-diventare-un-programmatore-migliore</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/softskill-indispensabili-per-developer-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/south-working-programmatori-in-smart-working-il-futuro-la-mia-opinione</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/speciale-un-anno-di-youtube-da-0-a-1600-iscritti</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/speciale-vlog-1000-iscritti-youtube-un-programmatore-in-giro-per-milano</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/specialisti-vs-fullstack-quale-la-migliore-strada-da-developer</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sta-arrivando-la-d8-tech-days-una-serie-di-chiacchierate-per-sviluppatori-e-apprendisti-developer</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/stackoverflow-cose-e-perche-da-sviluppatori-dovreste-usarlo</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/stipendi-esteri-qualche-considerazione-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori-parte-ii</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/suggerimenti-dal-futuro-per-sviluppatori</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppare-codice-ascoltando-musica-aiuta-quale-musica-conviene-ascoltare</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatore-software-a-milano-un-po-di-suggerimenti-su-come-trovare-lavoro-in-citta</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatore-software-perche-sviluppare-software-e-un-lavoro-semplice-ma-non-facile</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatore-web-cosa-posso-sviluppare-con-le-tecnologie-web</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatori-considerazioni-sulleta-per-scrivere-codice</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatori-e-approcci-a-microservizi-vs-monoliti-ed-un-po-di-filosofia-dello-sviluppo-software</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatori-e-domande-a-caso-random-live-del-weekend</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatori-imparate-a-fare-le-giuste-domande-nel-modo-giusto</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppatori-software-opportunita-e-la-capacita-di-saltare-di-tanto-in-tanto</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/sviluppiamo-lo-snake-facile-con-htmlcssjavascript</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/tasse-da-lavoro-dipendente-spiegazione-facile-su-come-si-calcolano</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/tecnologie-linguaggi-e-framework-che-studierei-per-diventare-programmatore-oggi</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/tecnologie-per-nuovi-progetti</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/tema-light-vs-dark-per-ide-e-programmi-quale-scegliere-e-perche</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/tipologie-di-aziende-di-sviluppo</loc>
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/tu-domanda-io-se-lo-so-rispondo</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/un-coffee-break-insieme-a-pausa-caffe-riservato-a-programmatori-o-apprendisti</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/un-consiglio-da-developer-a-developer-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/un-consiglio-da-developer-a-developer-sul-tempo-shorts</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/un-saluto-da-bologna</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/un-saluto-da-uno-studio-particolare-pausa-caffe</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/un-saluto-dai-membri-di-developerslife-a-milano</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/un-saluto-pausa-caffe</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</loc
+    >
+  </url>
+
+  <url>
+    <loc>https://developerslife.dev/data/video/DevelopersLife/video-live-lavori-da-developer</loc>
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/video-live-progetti-per-le-vacanze</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/vita-da-sviluppatore-software-il-nuovo-format</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/vite-da-developers-studi-professioni-community-e-divulgazione</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/vivere-a-milano-la-mia-esperienza-per-sviluppatori-e-non-solo</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/vlog-la-prima-conferenza-dopo-2-anni-xmas-devfest-torino</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/windows-vs-linux-vs-mac-os-quale-sistema-per-sviluppare</loc
+    >
+  </url>
+
+  <url>
+    <loc
+      >https://developerslife.dev/data/video/DevelopersLife/youtube-shorts-bug-video-shorts-pubblicati-come-video-normali</loc
+    >
   </url>
 </urlset>

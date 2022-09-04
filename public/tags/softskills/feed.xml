@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Tue, 15 Sep 2020 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/softskills/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/softskills/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</guid>
     <title>Cosa sono le Soft Skill: un pò di informazioni utili
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/cosa-sono-le-soft-skill-un-po-di-informazioni-utili</link>
     undefined
     <pubDate>Tue, 15 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

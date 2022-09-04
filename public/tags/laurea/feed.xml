@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 20 Jan 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/laurea/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/laurea/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</guid>
     <title>La laurea e la matematica per programmare sono indispensabili?
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/la-laurea-e-la-matematica-per-programmare-sono-indispensabili</link>
     undefined
     <pubDate>Wed, 20 Jan 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/informatica-vs-ingegneria-informatica</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/informatica-vs-ingegneria-informatica</guid>
     <title>Informatica VS Ingegneria Informatica
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/informatica-vs-ingegneria-informatica</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/informatica-vs-ingegneria-informatica</link>
     undefined
     <pubDate>Wed, 30 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</guid>
     <title>Università di Google o Laurea di Google. Cosa significa? Qui la mia opinione!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/universita-di-google-o-laurea-di-google-cosa-significa-qui-la-mia-opinione</link>
     undefined
     <pubDate>Sat, 29 Aug 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

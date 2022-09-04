@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Mon, 31 Jan 2022 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/lavoronuovo/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/lavoronuovo/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</guid>
     <title>Primo giorno di lavoro, qualche consiglio utile!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/primo-giorno-di-lavoro-qualche-consiglio-utile</link>
     undefined
     <pubDate>Mon, 31 Jan 2022 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Wed, 06 Oct 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/coding/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/coding/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</guid>
     <title>Come migliorare la tua produttività? Qualche consiglio per Developer!
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/come-migliorare-la-tua-produttivita-qualche-consiglio-per-developer</link>
     undefined
     <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</guid>
     <title>Quale IDE di Sviluppo utilizzare per scrivere codice? Il mio parere per Sviluppatori Software
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/quale-ide-di-sviluppo-utilizzare-per-scrivere-codice-il-mio-parere-per-sviluppatori-software</link>
     undefined
     <pubDate>Wed, 22 Sep 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -33,10 +33,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore</guid>
     <title>Programmatori: strumenti per promuoversi e raccontare le proprie capacità da sviluppatore! 👨‍💻
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/programmatori-strumenti-per-promuoversi-e-raccontare-le-proprie-capacita-da-sviluppatore</link>
     undefined
     <pubDate>Mon, 11 Jan 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

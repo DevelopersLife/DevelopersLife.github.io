@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Thu, 03 Jun 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/ar/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/ar/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</guid>
     <title>Vita, universo e tutto ciò che riguarda la Realtà Estesa, Sviluppare Virtual/Augmented/Mixed Reality
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/vita-universo-e-tutto-cio-che-riguarda-la-realta-estesa-sviluppare-virtualaugmentedmixed-reality</link>
     undefined
     <pubDate>Thu, 03 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>
@@ -22,10 +22,10 @@
   </item>
 
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</guid>
     <title>Mario Kart Live: Home Circuit, quale tecnologia utilizza? Parliamo di realtà aumentata
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/mario-kart-live-home-circuit-quale-tecnologia-utilizza-parliamo-di-realta-aumentata</link>
     undefined
     <pubDate>Sat, 05 Sep 2020 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

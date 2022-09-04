@@ -2,19 +2,19 @@
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
       <title>DevelopersLife</title>
-      <link>https://developerslife.github.io//blog</link>
+      <link>https://developerslife.dev//blog</link>
       <description>DevelopersLife la community degli sviluppatori software</description>
-      <language>it-eu</language>
+      <language>it-EU</language>
       <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
       <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
       <lastBuildDate>Mon, 21 Jun 2021 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://developerslife.github.io//tags/elettronica/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://developerslife.dev//tags/elettronica/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://developerslife.github.io//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
+    <guid>https://developerslife.dev//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</guid>
     <title>Elettronica: come iniziare? Quattro chiacchiere con Juna
 </title>
-    <link>https://developerslife.github.io//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
+    <link>https://developerslife.dev//blog/DevelopersLife/elettronica-come-iniziare-quattro-chiacchiere-con-juna</link>
     undefined
     <pubDate>Mon, 21 Jun 2021 00:00:00 GMT</pubDate>
     <author>developerslife@gmail.com (MichMurabito)</author>

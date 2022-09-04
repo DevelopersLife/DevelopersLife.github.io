@@ -1,0 +1,25 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>DevelopersLife</title>
+      <link>https://developerslife.dev//blog</link>
+      <description>DevelopersLife la community degli sviluppatori software</description>
+      <language>it-EU</language>
+      <managingEditor>developerslife@gmail.com (MichMurabito)</managingEditor>
+      <webMaster>developerslife@gmail.com (MichMurabito)</webMaster>
+      <lastBuildDate>Sun, 04 Sep 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://developerslife.dev//tags/formazione/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://developerslife.dev//blog/DevelopersLife/come-diventare-developer</guid>
+    <title>Come diventare Developer
+</title>
+    <link>https://developerslife.dev//blog/DevelopersLife/come-diventare-developer</link>
+    undefined
+    <pubDate>Sun, 04 Sep 2022 00:00:00 GMT</pubDate>
+    <author>developerslife@gmail.com (MichMurabito)</author>
+    <category>Carriera</category><category>Formazione</category><category>Developer</category>
+  </item>
+
+    </channel>
+  </rss>
