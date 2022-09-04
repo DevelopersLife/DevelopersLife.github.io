@@ -7,6 +7,14 @@ const team = [
         "linkedinUrl": "",
         "twitterUrl": "",
     }
+    {
+        "name": "Andrea Tontini",
+        "nick": "",
+        "role": "Staff",
+        "imageUrl": "andrea_tontini.png",
+        "linkedinUrl": "https://www.linkedin.com/in/andreatontini/",
+        "twitterUrl": "",
+    }
 ];
 
 module.exports = team
