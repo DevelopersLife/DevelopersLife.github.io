@@ -10,7 +10,7 @@ const team = [
     {
         "name": "Andrea Tontini",
         "nick": "",
-        "role": "Moderator",
+        "role": "Staff",
         "imageUrl": "andrea_tontini.png",
         "linkedinUrl": "https://www.linkedin.com/in/andreatontini/",
         "twitterUrl": "",
