@@ -14,7 +14,7 @@ const team = [
         "imageUrl": "riccardo_cosenza.png",
         "linkedinUrl": "https://www.linkedin.com/in/riccardo-cosenza/",
         "twitterUrl": "https://twitter.com/RiccardoCosenza",
-    }
+    },
     {
         "name": "Andrea Tontini",
         "nick": "",
