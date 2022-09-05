@@ -22,6 +22,14 @@ const team = [
         "imageUrl": "andrea_tontini.png",
         "linkedinUrl": "https://www.linkedin.com/in/andreatontini/",
         "twitterUrl": "",
+    },
+    {
+        "name": "Livio Francisconi",
+        "nick": "Livio74",
+        "role": "Staff",
+        "imageUrl": "livio_francisconi.png",
+        "linkedinUrl": "https://www.linkedin.com/in/liviofrancisconi/",
+        "twitterUrl": "",
     }
 ];
 
