@@ -30,6 +30,14 @@ const team = [
         "imageUrl": "livio_francisconi.png",
         "linkedinUrl": "https://www.linkedin.com/in/liviofrancisconi/",
         "twitterUrl": "",
+    },
+    {
+        "name": "Fabio Ros",
+        "nick": "",
+        "role": "Staff",
+        "imageUrl": "fabio_ros.png",
+        "linkedinUrl": "https://www.linkedin.com/in/fabio-ros-61943678/",
+        "twitterUrl": "",
     }
 ];
 
