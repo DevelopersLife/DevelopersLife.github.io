@@ -1,6 +1,17 @@
 # DevelopersLife.github.io
 DevelopersLife Website Source
 
+## Per far partire il progetto
+
+Attenzione : prima di effettuare i passi per far partire il progetto è necessario installare Nodejs
+
+* Scaricare il repository su una propria cartella a piacere
+* Portarsi nella directory di root appena scaricata e aprire il proprio terminale preferito (DOS , powershell , bash , ecc)
+* lanciare il comando **npm install** per installare tutte le dipendenze
+* lanciare il comando **npm start** per visualizzare il sito in locale
+* aprire il proprio browser preferito con il seguente url [http://localhost:3000/](http://localhost:3000/)
+* ora siete pronti per contribuire al progetto
+
 ## Come Aggiungere nuovi membri di DevelopersLife
 
 Sul file data/team.js puoi aggiungere un nuovo elemento così formattato:
